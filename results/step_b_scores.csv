@@ -1,0 +1,1001 @@
+TF-IDF cosine,Noun-lemma overlap,Sentence-BERT cosine,NLI entailment prob,NLI entail minus contradict,CLIP similarity,Ensemble (text methods + CLIP),label,caption,blip
+0.0,0.0,0.066818096,0.0005872065,-0.9922251,0.167899,-0.6780677284285626,1,Four women wearing energizer bunny ears point to an attraction .,two dogs playing in the snow
+0.24947406926615928,0.4,0.7420459,0.472648,0.4635712,0.3209653,1.4741263721823747,0,A dog chasing a ball indoors .,a dog running through a room with a ball in it ' s mouth
+0.0,0.0,-0.020638673,0.00036731313,-0.9984338,0.17623274,-0.7306223656222424,1,A girl in an orange shirt lights candles .,a young boy is jumping over a concrete wall
+0.08911810023014713,0.25,0.19211514,0.0013321507,-0.8977491,0.25278908,-0.19441411134334835,1,A black dog soaked in liquid jumping to the grass .,a little girl is playing with a dog
+0.0,0.0,-0.12036231,0.00035168338,-0.9985412,0.18428996,-0.7945212344810566,1,The three field hockey players are all chasing the ball .,a little girl standing in front of a table with candles
+0.4121014103229608,0.42857142857142855,0.7901597,0.0032291731,0.00031481148,0.34606588,1.0382910364575872,0,A girl in a red polka dot bikini is jumping off a sand dune .,a young girl in a bikini jumps into the sand at the beach
+0.0,0.0,0.048492387,0.00037000407,-0.9982995,0.15739977,-0.7262637610718807,1,Dirt bikers on a trail .,the interior of a building with people walking through it
+0.0,0.0,-0.0071253255,0.00020882522,-0.9977899,0.19654226,-0.6577273826286396,1,A security man guards the door as another one brings his items off .,a group of people climbing up the side of a mountain
+0.0,0.0,-0.17027897,0.0003780831,-0.9983874,0.13140741,-0.9979787613436779,1,The two children and the baby with the pink shirt are surrounded by toys .,a man riding a bike down a dirt road
+0.6838559744531431,0.4,0.77011126,0.69201416,0.6824642,0.36062592,2.540776883555734,0,A child holding a tennis racquet running on a tennis court .,a young boy playing tennis on a tennis court
+0.5128813375471619,0.6,0.61897933,0.008668855,-0.005943643,0.28687015,0.8484348890300526,0,A basketball player in blue is attempting to block a player in white during a game .,a basketball player dribing the ball during a game
+0.0,0.0,-0.06964939,0.00032246826,-0.99856716,0.091115415,-1.0305424104616245,1,A boy wearing skates sliding down concrete railing of steps near a pole .,a dog and a cat are standing by the water
+0.2326608697302267,0.4,0.5825497,0.0035974788,-0.91413146,0.34046084,0.6052271408877321,0,A dog goes headfirst into the long grass from the sand .,a dog is running through the sand dunes
+0.0,0.0,0.019637574,0.00022428113,-0.9980639,0.15484585,-0.7597058783456883,1,A jockey in yellow and a jockey in blue are racing their horses down a grassy raceway .,a woman swinging a tennis racket on a tennis court
+0.29184261846981363,0.4,0.64146125,0.0004643277,-0.99831957,0.25305453,0.4657035883160978,0,A group of men play soccer .,a group of men playing a game of rugby
+0.0,0.0,0.0833006,0.0003396634,-0.9984509,0.19122292,-0.593608594982346,1,Three people are standing on the ruined building with their arms outstretched .,a group of children running in a street
+0.20994237290624215,0.25,0.39636117,0.00040327903,-0.9983542,0.23672408,0.09326205673888696,1,A man is riding on a red motorcycle .,a man in a red jacket skiing down a snowy slope
+0.08938648117809982,0.0,0.44522998,0.006617083,-0.30063242,0.29247844,0.15791907928455254,0,a couple wearing bright outfits walking hand and hand on a sidewalk .,two people walking up the stairs to the top of a hill
+0.0,0.0,-0.026977278,0.0003622041,-0.99835294,0.10124474,-0.9622283051893314,1,a young group of girls covering her hair posing together outside of a building .,a dog running through a field of tall grass
+0.018442142942061004,0.14285714285714285,0.36451834,0.003165593,-0.9403682,0.3207628,0.07396722125651689,0,men in suits and ties walking downsteps,a group of men in tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tu
+0.0911767739143987,0.25,0.64200425,0.0023985123,-0.017983183,0.3114674,0.38454401146794837,0,A dog catches a Frisbee in midair .,a dog jumping in the air
+0.49634972693486784,0.4,0.8140584,0.017262014,0.014900347,0.30456197,1.066726406026683,0,three children in a field with white flowers,three children in a garden with flowers and plants
+0.26366883326687407,0.125,0.43727732,0.0032373462,-0.5457991,0.28680325,0.35481462612378095,0,A baseball player slides home in a non professional baseball game in an HDR photograph .,a group of people playing baseball on a field
+0.0,0.0,0.07482694,0.00020451068,-0.9980288,0.13612829,-0.7673605303451618,1,A child in gray clothes is sleeping on a red cushion .,a group of people sitting in a room
+0.0,0.0,0.012985973,0.0002613111,-0.9965345,0.21471915,-0.5850830148145756,1,A furocious female tennis player about to hit a tennis ball in the air .,two dogs playing in the water with each other dogs
+0.5428818898924662,0.5,0.7374371,0.0034883572,-0.00092051504,0.35510468,1.1893418069196917,0,A girl in a flower dress is running on sand .,a little girl is running in the sand
+0.20087014999576627,0.25,0.57585216,0.0010261053,-0.97143537,0.31659234,0.4818573531344009,0,Two dogs kick up dirt while running down a hill .,two dogs playing in the sand
+0.3110013246263195,0.6666666666666666,0.6877693,0.0057168086,0.0038571747,0.35622755,0.8510441973952287,0,A black dog and brown dog are running around in the sand .,two dogs playing in the sand at the beach
+0.0,0.0,0.10262894,0.00046650248,-0.9984238,0.16806754,-0.6460997681305012,1,A little baby plays croquet .,a dog running down a dirt road
+0.3314539667418828,0.2,0.37099218,0.012736825,-0.05086256,0.33622244,0.5487545180503355,0,A girl in yellow is laying down and man is looking at the camera .,a man and a woman laying on a couch
+0.10746019409965311,0.0,0.22996598,0.00027247053,-0.9981144,0.22096798,-0.23474040090300285,1,A man is riding an elephant while another person is touching the elephant 's head .,a group of people riding on the back of a bus
+0.0,0.0,-0.08374263,0.00060895603,-0.9981064,0.14730938,-0.8731797631070217,1,A man is asleep on the ground near two bank machines .,a woman splashes water on her face as she stands in the water at the edge of a lake
+0.0,0.0,-0.06992066,0.0004941188,-0.9983498,0.10898481,-0.9766486282631954,1,A woman holding and posing an infant dressed in a hawaiin shirt on a skateboard .,a dog running through a body of water
+0.0,0.0,-0.02227896,0.0005991978,-0.9981553,0.10278625,-0.9530428569004139,1,A climber hanging from an ice pick in the side of a frozen waterfall .,a group of people sitting at a table in a restaurant
+0.5033681230699592,0.25,0.7957027,0.20102467,0.19095717,0.30435756,1.358638579566645,0,A man skis on a snowy mountain .,a person is skiing down a snowy mountain
+0.0,0.0,-0.14385083,0.00029374033,-0.9985835,0.15634844,-0.8995880480095944,1,"A big , shaggy dog runs in a field of dandylions .",a man and a woman sitting next to each other people
+0.0,0.0,0.07778382,0.0002462073,-0.9983479,0.17598613,-0.6445575351998409,1,Two girls in blue and teal dresses and large hats are standing next to a large tree trunk .,a small dog wearing a sweater on a stick
+0.0,0.0,-0.103807315,0.00020915175,-0.9982221,0.16423933,-0.8405463989064297,1,Lots of people are playing in the river that runs through the city and in the sandy park beside it .,a man and a woman laying on a couch
+0.1529363382470314,0.2,0.34560922,0.002678601,-0.9814048,0.28173715,0.11366593334771194,0,A man is shirtless and is covered in red marks .,a man in a red and white outfit holding a blue flag
+0.0,0.0,-0.031847842,0.00024119906,-0.98954153,0.18798544,-0.7053173701450428,1,A man holding a bottle wearing tan pants talking to security officers in front of a large poster .,a group of people walking down a dirt road
+0.3153785341486467,0.3333333333333333,0.65102416,0.0026717319,-6.825081e-05,0.34309843,0.7797183315513254,0,"A boy wearing a black and blue life vest is on a green , wooden boat looking out towards the water .",a boy on a boat in the ocean
+0.2492667128144027,0.25,0.333048,0.0028105662,-0.9708871,0.28210485,0.22909968782424084,0,A man holding the hand of another man who has a tattoo on his arm .,a man holding an umbrella
+0.0,0.2,0.52959466,0.008822489,0.0027127103,0.35432547,0.3062957492485443,0,A girl and boy bounce on large balls .,two children playing in a yard with a ball
+0.0,0.0,0.05230688,0.0003066497,-0.99579,0.1279498,-0.8117495323702892,1,A group of people in hazmat suits are standing with a dummy on a stretcher .,a man wearing a baseball cap
+0.22040933107310876,0.16666666666666666,0.5941265,0.00382889,-0.0034468502,0.31032547,0.5090931633617665,0,Four children hold hands and jump into a pool .,a group of people jumping into a swimming pool
+0.03762881084315644,0.14285714285714285,0.56488204,0.606431,0.36589098,0.34476018,1.3319971502515862,0,A group of race buggies travel down a racetrack .,a group of dirt racing cars driving down a dirt track
+0.13068325351292118,0.2,0.31192973,0.0003095402,-0.99280655,0.27471006,0.02992702932884357,0,A boy jumps through the air onto something red .,a young boy standing on top of a bed in a room
+0.3012287756269203,0.4,0.6189691,0.0056702616,-0.032175407,0.2873612,0.5699008753729353,0,A brown dog next to a stone bench .,a small dog sitting on top of a cement bench
+0.2743365762754315,0.4,0.5460085,0.13238078,0.0924554,0.32440162,0.788684393973428,0,"A boy , an adult and two dogs running through the snow",two people playing with a dog in the snow
+0.25096575273865396,0.2,0.6343976,0.0028499342,-0.030475425,0.38816214,0.8173946285235076,0,Two female beach volleyball players face off at the net with the Beijing Olympics logo visible in the background .,a group of women playing volleyball on a beach
+0.0,0.0,0.19240613,0.0006586369,-0.9980748,0.17445326,-0.5471785138532719,1,a lone bicyclist jumping in the air over a ramp .,a man on a rock climbing on a rope
+0.0,0.0,0.019181589,0.00033784192,-0.97662085,0.15961842,-0.745540514139851,1,A small girl in yellow slides down an orange slide .,stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand
+0.0,0.16666666666666666,0.34758216,0.0060591116,-0.089252666,0.3811072,0.22160395652202758,0,Men in blue uniforms holding little girl with bandaged face and stuffed animal,a man carrying a child
+0.3325008623695423,0.25,0.78696895,0.9264245,0.92527187,0.2974833,2.2908912592618806,0,A child plays at a playground .,a young boy playing on a slide in a playground
+0.3096429774577587,0.2857142857142857,0.54691076,0.007949904,-0.012200337,0.30748785,0.5815119206417037,0,A group of people standing in front of a setting sun .,a group of people standing on top of a grass covered hill
+0.0,0.0,0.006730194,0.0010695147,-0.99728113,0.15953359,-0.7556101973340115,1,Dogs on grass .,a young man skateboarding on a concrete bridge
+0.23063425657507403,0.14285714285714285,0.62344956,0.006253752,0.0015499145,0.31173688,0.5565130097804666,0,Boys wearing hats play in a soccer game .,a group of children playing soccer on a field
+0.0,0.0,-0.009211656,0.0005950169,-0.99818516,0.16813043,-0.7445678557440838,1,A man on Rollerblades glides down a park path .,a seal swimming in the ocean with its mouth out
+0.1696712761084416,0.125,0.31323075,0.0003093328,-0.99838203,0.1760328,-0.21563234700175932,1,A man leads two cows down the dirt shoulder of a paved road .,a group of dirt racing cars driving down a dirt track
+0.38505880616897387,0.4,0.70218056,0.008300889,0.0050750393,0.37561375,1.0226854104226388,0,A barefoot young boy glances at the camera while swinging in a park .,a young boy on a swing in a park
+0.0,0.0,0.14935067,0.00046530677,-0.99705505,0.21634299,-0.4593100915834507,1,A white and black dog and a brown dog in sandy terrain .,a man riding a bike down a hill
+0.10132112597502815,0.2,0.3537098,0.001856512,-0.9901467,0.2998948,0.10711706474040214,0,"The two people are standing on a rock , holding themselves up against another rock , while looking down",a group of people climbing up the side of a mountain
+0.5248324008833425,0.75,0.6676966,0.0072810017,-0.033790905,0.31229872,0.9814076208097464,0,A man in a black t-shirt looking down as he holds a drink .,a man in a black t - shirt
+0.0,0.0,0.12748086,0.0012153372,-0.9764593,0.2807784,-0.2832285161301693,0,A closeup of a girl holding a heart necklace and looking at it .,a woman in a cowboy outfit is dancing
+0.42730025785642467,0.16666666666666666,0.689059,0.108960986,-0.41000402,0.26529318,0.8976459362549551,0,a group of dogs pulling a sled through the snow .,two dogs pulling a sler through the woods
+0.6489601821426847,0.5,0.6289265,0.0033925858,-0.9781462,0.32428998,1.1382800421843609,0,A brown and white dog is jumping with a red Frisbee in its mouth .,a brown and white dog running with a red ball in its mouth
+0.17703425250637544,0.16666666666666666,0.6459335,0.46977112,0.4278793,0.28308064,1.1761371326407508,0,Dirt bikers on a trail .,two people on dirt bikes riding down a hill
+0.0,0.0,0.16238633,0.0005692092,-0.9982098,0.22544563,-0.4201841573402485,1,A male teenager rides his skateboard onto a large rock .,a little girl sitting on a slide in a playground
+0.0,0.0,-0.002327634,0.00083936466,-0.99771065,0.1449555,-0.807927131204327,1,A brown dog drinks from a body of water .,a young boy playing baseball in the backyard
+0.0,0.0,0.28331995,0.00020072988,-0.99628663,0.23909551,-0.272742404153963,1,A child in gray clothes is sleeping on a red cushion .,a little boy sitting on the floor eating a piece of food
+0.0,0.0,-0.0012694765,0.00044406933,-0.9984291,0.19443965,-0.6585039864465794,1,A child is thrown by a man in the swimming pool .,a person skiing down a hill on ski equipment
+0.0,0.0,0.08241576,0.0004599335,-0.97979206,0.18360482,-0.6171536515638432,1,A man wearing a orange vest is canoeing in the blue water .,a person standing in front of a rock formation
+0.7078740273061459,0.2,0.7581325,0.42203245,0.41288555,0.27493703,1.8629482410801415,0,A football player holding a football .,a man holding a football on top of a field
+0.30499116065861875,0.125,0.6183404,0.0027133634,-0.0053555733,0.3289942,0.6948853235707688,0,A jockey in yellow and a jockey in blue are racing their horses down a grassy raceway .,a group of horses racing down a race track
+0.08151833786393352,0.14285714285714285,0.42072058,0.034357347,0.0017354339,0.28304946,0.14284043955276043,0,A group of young men sit on rock and look in the distance .,a group of people sitting on top of a mountain
+0.0,0.0,0.054709285,0.0003077962,-0.9984744,0.1556067,-0.7262732829138836,1,A brown dog jumps over colorful poles and numbered cones .,a man climbing on the side of a mountain
+0.0,0.0,-0.041325934,0.00038961624,-0.99849343,0.09685159,-0.9881076286718449,1,A man leads two cows down the dirt shoulder of a paved road .,a little girl holding a tennis racket
+0.11967292678339976,0.0,0.1654591,0.00082918035,-0.80837816,0.19964418,-0.33924650705940185,1,A girl in a pink hat is running past a green wheelbarrow .,a dog running through the water on a beach
+0.07587491152292969,0.16666666666666666,0.15242109,0.00033708225,-0.99569243,0.18529636,-0.45174571771579297,1,A man holding girl at top of a slide,a man wearing a red and white head scarf
+0.0,0.0,-0.061864763,0.0002474877,-0.99839634,0.1336752,-0.8955189730212292,1,Two dogs are playing together and fighting over a toy .,a group of people walking down a dirt road
+0.1504449802860335,0.6666666666666666,0.5855582,0.0017446183,-0.018259056,0.33236217,0.4735903024668208,0,A white dog chasing a black dog across the grass .,two dogs running in the grass near a fence
+0.0,0.0,-0.005016206,0.00026526643,-0.99771565,0.123486064,-0.8759432058021626,1,A little boy and a little girl are lying on a black bench surrounded by adults .,a dog running through a room with a ball in it ' s mouth
+0.2990884852715779,0.6666666666666666,0.71804416,0.09339485,0.0765319,0.3264686,0.9155989237017916,0,A boy jumps off a short wall with his arms out .,a young boy is jumping over a concrete wall
+0.19677953321705868,0.5,0.60777396,0.002488304,1.7281622e-05,0.24545157,0.29274352172375295,0,A black and tan dog in the snow,two dogs wearing harnesses in the snow
+0.0,0.0,-0.09648944,0.00023145838,-0.9981767,0.124106,-0.9549924279734692,1,A baby girl wearing a pink jacket climbs wooden steps .,a group of people watching a football game
+0.19949269654408974,0.5,0.58525836,0.02533086,0.012370194,0.33918455,0.5960988478664513,0,The dogs play in the snow on hind legs .,a white dog playing in the snow
+0.1790090380653233,0.25,0.29582468,0.021993717,0.0027978923,0.32835296,0.2755287442277556,0,A Dalmatian is playing near a tree .,a black and white dog sitting on a tree branch
+0.36792662468035614,0.2,0.6413875,0.004774207,0.0008094292,0.35957867,0.8925992008295704,0,A dark skinned man standing outside a small yellow building which is setup to sell items .,a man standing outside of a yellow house
+0.0,0.0,0.10490711,0.00031874972,-0.99774164,0.2490078,-0.40039393819721547,1,A woman holding and posing an infant dressed in a hawaiin shirt on a skateboard .,a little girl jumping in the mud puddle
+0.0,0.0,0.06518014,0.0004005498,-0.9985227,0.1721085,-0.6671336810276112,1,A brown dog is running on a dirt path .,a person surfing on a wave in the ocean
+0.0,0.2,0.24194843,0.0013658544,-0.04647222,0.24428087,-0.2917877384633025,1,"A black and white dog , with a red cap on its head , yawning .",a group of dogs playing with a fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr
+0.0,0.0,-0.02381133,0.0002337339,-0.9983471,0.24492273,-0.5266311145559153,1,A boy wearing a red t-shirt is running through woodland .,two people walking up the stairs to the top of a hill
+0.13241121428685734,0.0,0.4378738,0.01852197,-0.0011241063,0.29986966,0.24902826501783804,0,A baby and a young boy playing .,a group of children playing on a wooden floor
+0.07468634848020841,0.25,0.19825561,0.000205044,-0.99807286,0.20790015,-0.3448662851215011,1,A dark-headed boy is eating a large red Popsicle .,a young boy running down a dirt path
+0.0,0.0,0.116893694,0.0006270691,-0.989579,0.23417866,-0.4339862405494055,1,A group of people stand and look at a kid who jumped .,a person on a snowboard doing a trick
+0.0,0.0,-0.08282338,0.00031981771,-0.99786574,0.10665842,-0.9953500102445683,1,A man at the top of a mountain with a beautiful view in the background,three children in a garden with flowers and plants
+0.0,0.0,0.004123075,0.0003083548,-0.9985626,0.11388104,-0.8967408980414471,1,A girl in a colorful dress and sunglasses is playing a violin on the street .,a man and a small child on a slide
+0.0,0.0,0.13126732,0.00042927582,-0.99848735,0.15489727,-0.6605358715340695,1,A bearded man reads while sitting on a wall in a park .,a person on a snowmobile in the air
+0.0,0.0,0.45238078,0.0040318966,-0.27692148,0.35375795,0.22851701870707664,0,A man in bright shorts hits a volleyball in the sand .,a young boy playing with a ball on the beach
+0.17749032690328936,0.3333333333333333,0.555927,0.0017353465,-0.0038682506,0.33955905,0.5042254516980118,0,A brown dog in a blue collar is chasing a green ball through mulch .,a dog running in the dirt with a ball in its mouth
+0.2784816121981947,0.2,0.7164634,0.005081031,0.0012303516,0.33932602,0.7821657529287536,0,A black and brown dog is laying on a white shaggy carpet .,a dog laying on a white rug in a living room
+0.07401506106681152,0.16666666666666666,0.43862706,0.0023854089,-0.0037258363,0.3313759,0.24242851460036452,0,A black and white dog with a Frisbee in his mouth on his hind legs,a dog jumping in the air
+0.27431390605097533,0.4,0.6386932,0.0005082514,-0.995205,0.35586023,0.7503732172378652,0,A group of cross-country skiers are skiing down a trail .,a group of people walking down a snow covered trail
+0.0,0.0,0.20106907,0.0005748757,-0.99711066,0.18402877,-0.5107989381239018,1,A baseball pitcher with Shelton on his shirt throws the ball .,a man and a little girl jumping on a bounce bouncer
+0.0,0.0,-0.10834761,0.00036004785,-0.9985085,0.14696543,-0.8963730032727322,1,A man walks toward a policeman standing in a crosswalk on a city street .,a group of people sitting at a table
+0.491389081756735,1.0,0.61425114,0.011596363,-0.029243201,0.30409896,0.8730151077823749,0,A brown dog walks through snow .,a dog running in the snow
+0.0,0.0,-0.24542186,0.00068687566,-0.9979449,0.15197882,-1.0019047479316792,1,Two boys playing in the surf on the beach .,a woman sitting on a bench in a subway station
+0.0,0.0,-0.07406627,0.0003552796,-0.99857664,0.09828627,-1.0127823646351894,1,"A man in all black is using a green bike to trick over a sign saying , "" Free Dinner "" .",a woman in a blue and white uniform
+0.23060023395407753,0.2857142857142857,0.54590374,0.0038368565,-0.57254463,0.37128347,0.6634352699818863,0,a man in a beige shirt is operating a video camera next to a girl in a black sweater .,a woman standing next to a man holding a camera
+0.41210979365792616,0.5,0.6093014,0.00054871343,-0.92579395,0.39433563,1.0195248983175702,0,A girl in a pink jacket is going headfirst down a red slide .,a little girl is sitting on a red slide
+0.0,0.0,0.001094914,0.00075644924,-0.9906993,0.1507256,-0.7876472543165287,1,A group of teens in gather in prom attire .,a young boy playing with a ball on the beach
+0.2379992326002841,0.14285714285714285,0.4277318,0.003761373,-0.0033672615,0.27787957,0.2869706943036423,0,A basketball player is about to make a lay-up .,a group of men playing a game of basketball
+0.0,0.0,0.22758892,0.01165057,-0.03293877,0.2798879,-0.18040160417409745,0,A baby is laughing .,a little boy sitting on the floor in front of a mirror
+0.09318980525415291,0.2,0.4695502,0.00053085585,-0.99018866,0.3460284,0.33582365900143685,0,A dog climbing a steep dirt hill .,a dog is running on the side of a road
+0.4399110001234704,0.6666666666666666,0.7407505,0.9217977,0.9186389,0.3016335,2.3946141498616846,0,A girl rides on a swing .,a little girl swinging on a swing in the air
+0.0,0.0,-0.030571138,0.0004066628,-0.9985061,0.22498906,-0.5923996935770115,1,A professional horse race,a dog playing with a toy on the beach
+0.0,0.0,0.071416706,0.0039890567,-0.012936509,0.2754782,-0.3442400018856129,0,Tourists pose for camera at night .,a couple of men standing next to each other men
+0.0,0.0,-0.09332018,0.0015238002,-0.96956354,0.13774505,-0.9089790354654392,1,"A man with a white beard , a partially bald man and a woman with short hair posing for a picture",a dog running in the dirt with a ball in its mouth
+0.21515072524589865,0.0,0.6603575,0.002331659,-0.05945041,0.32802123,0.6116950921868819,0,A black man in white shorts and a white man in black shorts boxing .,two boxers in a boxing ring
+0.43947553519164523,0.16666666666666666,0.81600666,0.10906214,0.10285931,0.3594538,1.3096341970385015,0,A man on a bicycle riding on the beach .,a person riding a bike on a beach
+0.0,0.0,0.21901684,0.00031107376,-0.998548,0.09961811,-0.7497549946591457,1,Two female beach volleyball players face off at the net with the Beijing Olympics logo visible in the background .,a group of men playing a game of basketball
+0.4594354120635342,1.0,0.8514272,0.49634483,0.49382436,0.27535075,1.7449049841095958,0,a little girl swings on the swing .,a girl swinging on a swing
+0.46301167335732596,0.6666666666666666,0.80870795,0.91376644,0.9105759,0.27528828,2.392222979282621,0,A bird swooping over water .,a bird flying over a body of water
+0.1659126641119605,0.3333333333333333,0.6610867,0.14525424,0.1306257,0.33064222,0.7892774595461576,0,A group of people sit on a rocky ledge with a scenic view behind them .,a group of people sitting on top of a rock
+0.0,0.0,0.32690784,0.0005028019,-0.98511964,0.37638333,0.18003156826047095,0,A man and two woman dressed like vampires complete with scary makeup .,a group of people posing for a picture
+0.0,0.0,0.39578354,0.008249445,-0.037389055,0.3464001,0.16318729564694556,0,A hiker with two hiking poles stands on a hillside with a view of the city below him .,a man walking up a hill on a sunny day
+0.0,0.14285714285714285,-0.019931205,0.00025407504,-0.99694675,0.15227479,-0.802384614495953,1,a dirty looking man standing in front of an overfilled red grocery chart,a group of men playing a game of basketball
+0.0,0.0,0.12101406,0.0009938072,-0.87111384,0.26753926,-0.3292057062670788,0,"A boy pauses in drawing on a white balloon to smile at the camera , and the girl next to him also smiles at the camera .",a man and a woman sitting next to each other people
+0.18877134955531644,0.4,0.4503315,0.0020257756,-0.33339143,0.36375058,0.49892309430377446,0,A big brown dog sniffs a smaller dog in the gravel beside a body of water .,a dog and a cat are standing by the water
+0.0,0.0,0.06561104,0.00046370752,-0.99832827,0.26579458,-0.384304403810223,1,A girl in an orange shirt lights candles .,a little boy playing with a soccer ball
+0.07337351342838916,0.2,0.25425535,0.0042150733,-0.064729735,0.19561459,-0.3275559314703169,1,A man is shirtless and is covered in red marks .,a man in the snow on a snowboard
+0.0,0.0,0.2735461,0.00044610346,-0.9855537,0.24732712,-0.25617448009403554,1,A brown dog in a blue collar is chasing a green ball through mulch .,a young boy is playing with a frc in a grassy field
+0.0,0.0,0.046224803,0.00019432903,-0.9961671,0.19859722,-0.604396365134438,1,A football player passes the football to a teammate as the crowd looks on .,a group of cars parked on top of a mountain
+0.0,0.0,-0.07374133,0.00042393862,-0.998432,0.31277683,-0.3659645314499935,0,a large woman dances .,a group of people standing around a white fence
+0.536297599205019,0.6666666666666666,0.695446,0.9333553,0.93105125,0.27631354,2.422389924130595,0,Dogs on grass .,two dogs running in the grass near a house
+0.0,0.0,0.08658253,0.00041942514,-0.9984855,0.13572423,-0.7578358794734081,1,A bald man in a tank top riding bike through a city .,a dog running in the grass
+0.0,0.0,0.4384389,0.0076411148,0.0019418332,0.3654399,0.25728368804005775,0,A man in a black and white uniform stands on a motorbike doing a stunt .,a person riding a motorcycle on a road
+0.0,0.0,-0.10734465,0.00030044332,-0.99844724,0.20122862,-0.7320485036060413,1,A boy pushing another boy up a pole .,a person riding a bike on a road
+0.20425286037165558,0.16666666666666666,0.5628379,0.0021293748,-0.0014573524,0.32253933,0.49447134460554415,0,A girl in a pink jacket and red hat walking near grass .,a little girl walking down a path in the woods
+0.0,0.0,-0.011713803,0.00072364573,-0.9979432,0.13718686,-0.8398258681580624,1,Two brown dogs trot along frozen ground in a rural setting .,a man in a wet suit standing in the water
+0.3920399752658046,0.5,0.6058376,0.0054455735,-0.0072084004,0.28415036,0.6662900912817622,0,A crowd is standing and cheering at a football game .,a football game is being played on the field
+0.0,0.0,0.064119205,0.00036639007,-0.99794394,0.22603437,-0.5056087332949242,1,A girl carries a sign that reads The Rescue while a group of people follow her .,a man walking down a dirt road with two cows
+0.3151484230126173,0.16666666666666666,0.604368,0.003768277,-0.11303627,0.34654564,0.7503520267705923,0,A guy is grinding a rail over a tree on his snowboard .,a man in the snow on a snowboard
+0.3187102126782449,0.3333333333333333,0.52615535,0.0008160654,-0.9957777,0.3638033,0.7330382174709158,0,A kayaker falling down a waterfall,a man is surfing on a large waterfall
+0.0,0.0,0.060191076,0.0002511724,-0.99680007,0.18040073,-0.6467969636604389,1,A girl in a red shirt is rock climbing .,two people walking down the street in front of a building
+0.21587829402891395,0.25,0.5022149,0.4427477,-0.018841892,0.28817394,1.0708681925519024,0,A dog and two people .,a woman sitting at a table with a dog
+0.0,0.0,0.04931333,0.00040183938,-0.99851,0.16882426,-0.6910557071849903,1,A black dog leaps in the water .,a little girl is walking up some stairs
+0.5399013478270209,0.5,0.7788383,0.84597296,0.82888186,0.26391876,2.3209582682979915,0,A flag is carried .,a man holding a flag
+0.0,0.0,0.29466996,0.020582315,-0.16577303,0.29848206,-0.05050047581868378,0,A child throwing an orange toy .,a young boy is playing with a frc in a grassy field
+0.11331957031302152,0.16666666666666666,0.53337854,0.0071123987,-0.04536053,0.30223012,0.2971484154557815,0,"A dog runs holding a yellow dog toy in fall , bench in the background .",a dog running with a ball in its mouth
+0.0,0.0,-0.010787022,0.00021952344,-0.9983307,0.136946,-0.8405544902369579,1,A black and white dog is running between yellow poles .,a person sitting on a rock in the woods
+0.0,0.0,0.092831805,0.0003532229,-0.9985541,0.1881296,-0.5944833303973278,1,A child holding a tennis racquet running on a tennis court .,a group of people standing around a table
+0.3130915368183849,0.6666666666666666,0.59533674,0.0038186105,0.0019509044,0.35085285,0.7527576851249063,0,A brown dog is chasing after a yellow ball .,a dog running with a ball in its mouth
+0.0,0.0,0.12216639,0.00034170927,-0.99846965,0.17625399,-0.6043603266760906,1,one large brown dog running alongside a black and white dog .,a group of people standing in front of an ambulance
+0.0,0.0,0.102617405,0.0003675203,-0.9983424,0.29438403,-0.2655864204451641,0,Two guys are playing horse shoe together .,a group of people walking down a dirt road
+0.11688756980475956,0.25,0.22488281,0.0007484096,-0.89497334,0.27775148,-0.05507312018941021,0,A big dog is biting a smaller dog on the leg,a dog playing with a toy on the beach
+0.0,0.0,0.088521525,0.00027563862,-0.9970023,0.122409366,-0.7964837621137699,1,A little girl in a rain puddle .,a police officer talking to a woman on the street
+0.07246177133197616,0.0,0.19259578,0.00029227283,-0.9934581,0.19653505,-0.38687039908715604,1,Lots of people are playing in the river that runs through the city and in the sandy park beside it .,two dogs playing on the shore of a lake
+0.06270324814092526,0.16666666666666666,0.75094175,0.6336974,0.5039608,0.32319635,1.508538037940863,0,A man skateboarding on the side of steps,a man riding a skateboard down a set of stairs
+0.09989525084692161,0.16666666666666666,0.32967103,0.0010506639,-0.97949773,0.32065812,0.14527458824918207,0,One child running a net through a bucket of water and another child filling a bucket .,a group of people standing around a water well
+0.0,0.0,0.24799386,0.0007007828,-0.976215,0.22497705,-0.34570470407458154,1,A female toddler wearing a pink shirt is playing on a playground .,a woman walking down a sidewalk next to a tree
+0.0,0.16666666666666666,0.085233726,0.00039858467,-0.99417293,0.12265156,-0.7984598349020084,1,a group of dogs pulling a sled through the snow .,a dog is playing with a ball in the yard
+0.0,0.0,0.060519643,0.0002738905,-0.9985533,0.111468986,-0.8542117770001492,1,A girl in a colorful dress and sunglasses is playing a violin on the street .,a dog jumping in the air
+0.4369384765468911,0.25,0.6304422,0.00989118,0.0010346714,0.3308211,0.8943038543188717,0,A green motorcycle is being ridden on a wet racetrack .,a person riding a motorcycle on a wet road
+0.18128094745417317,0.3333333333333333,0.7684252,0.079102114,0.057412293,0.3046221,0.7178598436075689,0,A boxer is practicing making hits by targeting the gloves of his partner .,a man hitting a boxer with a punching glove
+0.031700137903224054,0.14285714285714285,0.22370234,0.09126332,-0.5800112,0.24138418,-0.12886073018716926,0,A man has his hand on his head while a speaker is speaking .,a man in a suit and tie holding a teddy bear
+0.0,0.0,-0.09041785,0.00069349224,-0.9980016,0.14839321,-0.8756764452144703,1,A man performing martial arts kicks his opponent .,a woman holding a fish in a lake
+0.36729522209791843,0.5,0.58644587,0.004345737,-0.036964044,0.36833557,0.8689024137880481,0,A little girl holds the water hose for the dog to drink from .,a little girl is playing with a dog
+0.5614903218085233,0.5,0.7478382,0.0018971784,-0.001589105,0.349984,1.204697512929839,0,Two black dogs are jumping and playing with a yellow tennis ball in the snow .,two dogs playing in the snow
+0.16406869039001318,0.2,0.15433714,0.00058782444,-0.99627894,0.2119135,-0.2547877313916154,1,A boy takes a jump on his skateboard while another boy with a skateboard watches .,a young boy is swimming in the water
+0.1652687520649299,0.14285714285714285,0.27757365,0.0002180695,-0.9969427,0.12514192,-0.4063964874677583,1,The three children are holding umbrellas and watching the ceremony in the rain .,a group of children playing soccer on a field
+0.21518410883470457,0.2,0.43674433,0.001415171,-0.010342474,0.32030177,0.3893055370317266,0,a blond girl in a pink bathing suit running through the sprinklers,a little girl running in the grass
+0.12827979543205448,0.125,0.107258424,0.000371872,-0.9979772,0.18983528,-0.40981545080611914,1,A dog in a life jacket sitting on a boat with a man in the cockpit .,a man sitting on a wall looking at his cell
+0.4330581856147965,1.0,0.708117,0.006993057,0.005922831,0.32862824,0.9465904583539874,0,A brown and white dog runs across the grass .,a dog running in the grass
+0.4608753283079625,0.3333333333333333,0.6181938,0.13803977,-0.0027226955,0.32839084,1.1162173641950708,0,A baby is held by an adult and is sitting on a table at a coffee shop .,a woman sitting at a table with a baby
+0.0,0.0,0.036800295,0.00043001492,-0.98779356,0.18388954,-0.6566684763118824,1,A girl in a red shirt is rock climbing .,three children on a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+0.1039113211561267,0.0,0.62773526,0.7820988,0.7724913,0.33512753,1.731119165932146,0,A biker is riding along a track element located with a wooded area .,a person riding a bike through some trees
+0.13907079822893434,0.5,0.5700884,0.0045735394,-0.010425214,0.31787416,0.4060799066920033,0,A white dog races a brown dog in a field of grass .,two dogs running through a field of flowers
+0.08008607626142915,0.125,0.32417744,0.00049249764,-0.98887116,0.097609855,-0.5584499506203061,1,a boy in a grey hat is carrying a soccer ball by a reddish colored wall .,a basketball player dribing the ball during a game
+0.6130422095205189,0.75,0.49986836,0.028215777,-0.67437416,0.3064552,0.9642305272271843,0,A child is thrown by a man in the swimming pool .,a man jumping into a swimming pool
+0.0,0.0,0.14691433,0.00037326076,-0.9977379,0.19123587,-0.5372801940128407,1,A football game is played .,a bird flying over a body of water
+0.0,0.0,0.28794122,0.0002915945,-0.99437535,0.30000958,-0.08492993332298604,0,a boy wearing a red shirt on a skateboard jumps up some stairs,a person standing on a platform in front of a building
+0.0,0.0,0.022347141,0.0005469428,-0.99823755,0.16338696,-0.7310438226148686,1,A girl in a flower dress is running on sand .,a man riding a skateboard down a set of stairs
+0.0,0.0,-0.013145879,0.00065766065,-0.99609536,0.12470445,-0.8788181315347752,1,A biker is riding along a track element located with a wooded area .,two women sitting on a bench in front of a building
+0.5759374323705245,0.8,0.86617297,0.051268283,0.014406096,0.3905474,1.5308334982605811,0,A man leads two cows down the dirt shoulder of a paved road .,a man walking down a dirt road with two cows
+0.3214013237517188,0.14285714285714285,0.57071716,0.010602264,-0.013427222,0.33078194,0.6923679105142531,0,A girl in black tank top catches a fish .,a woman holding a fish in a lake
+0.06002933663710079,0.16666666666666666,0.06601558,0.00036025926,-0.9982831,0.18675794,-0.5442824480945434,1,A child is thrown by a man in the swimming pool .,a man riding a skateboard in a tunnel
+0.11118689181872969,0.14285714285714285,0.19358787,0.0002645813,-0.9979839,0.26682192,-0.12387559708622708,0,A woman holding and posing an infant dressed in a hawaiin shirt on a skateboard .,a woman sitting on a bench on the beach
+0.0,0.0,0.119370036,0.0002663253,-0.9937188,0.3101943,-0.2032940085217556,0,A blonde haired woman is pouring drinks at a bar .,a group of people sitting at a table in a restaurant
+0.5795259576782412,0.75,0.8014133,0.5482674,0.48361027,0.313298,2.0558165669141415,0,A boy hits a baseball with the bat .,a young boy swinging a bat at a baseball game
+0.0,0.0,-0.07558479,0.00038363237,-0.9984591,0.13871382,-0.8922404269859394,1,A young boy and girl are playing in a tunnel .,a man holding a video camera in a room
+0.1539480952131723,0.16666666666666666,0.26495367,0.00039416103,-0.99849665,0.19337851,-0.22633325140490104,1,A baby in a life jacket on a raft .,a baby in a high chair eating food
+0.0,0.0,0.11882544,0.0004964061,-0.9983788,0.19795685,-0.5416547428056797,1,A girl rides on a swing .,a dog running through a snowy field with a tree in the background
+0.0,0.0,0.01958369,0.00039468327,-0.99848455,0.12726407,-0.8425999502822956,1,A city street is busy with people as one person walks across the crosswalk .,two dogs playing with a ball in the yard
+0.08353159100945201,0.16666666666666666,0.13119516,0.0011905674,-0.4251013,0.346537,0.026771885861545996,0,A man dressed in a purple shirt and red bandanna smiles at the people watching him .,a group of people walking down a sidewalk
+0.0,0.0,0.01605941,0.00042766373,-0.9601229,0.26671928,-0.42538002833577004,0,A security man guards the door as another one brings his items off .,a subway train with a bunch of trash on the side
+0.0,0.0,0.5423273,0.0022517564,-0.94658804,0.36532223,0.3399789188816944,0,A guy in swimming trunks flying on a rope swing above a lake .,a man hanging from a tree over a body of water
+0.0,0.0,0.13633537,0.0019930284,-0.7746365,0.17873251,-0.5816727499649128,1,A boy in a brown jacket holds a large chunk of snow .,a tire hanging from a tree in the woods
+0.45379482645229585,0.14285714285714285,0.6005544,0.003251123,-0.001749919,0.27779773,0.7191682030584483,0,A woman riding a horse in a show jumping competition .,a person jumping a horse over an obstacle
+0.4895954254820226,0.2,0.7443805,0.21703957,0.20982942,0.3068226,1.3289092291885876,0,A couple walking down the street .,two people walking down the street in front of a building
+0.4776547102643989,0.75,0.7334535,0.005583042,0.0012318883,0.33107048,1.0320177180363688,0,A dog is on a leash held by a woman in white shoes .,a woman walking a small dog on a leash
+0.0,0.0,0.09444943,0.00026355722,-0.9943175,0.32728964,-0.1738075087949833,0,An older lady wearing a Tinkerbell jacket .,two people on a boat in the water
+0.0,0.0,0.2018994,0.0059232474,-0.5630722,0.15294209,-0.595031376479586,1,A male and a female are leaning against railing looking off with the ocean in the background,a group of people standing in the rain with umbrellas
+0.631275526022117,0.75,0.8539401,0.003590134,-0.0019418309,0.3395218,1.3604317391256675,0,A girl in a dress holds a tennis racket .,a little girl holding a tennis racket
+0.4566619506616252,0.3333333333333333,0.5106631,0.0013017566,-0.040446967,0.4085315,1.0342499704357133,0,A black and white dog with a red Frisbee standing on a sandy beach .,the dog is black and white
+0.0,0.0,0.16448224,0.0006973969,-0.99781185,0.19877042,-0.4985144804403385,1,A bicyclist doing a jump .,a young boy holding a surfboard on the beach
+0.0,0.0,0.30193505,0.002264954,-0.31993392,0.3366307,0.041024773655532476,0,A girl wearing white polka dots and black boots walks and a woman in a blue outfit hurridly walks behind her .,a group of people walking down a street
+0.0,0.0,-0.011054171,0.00063760066,-0.9981198,0.14896101,-0.8038988332435688,1,A man rides a bike on a dirt path .,two children playing on a metal bar in a park
+0.2765318513380377,0.25,0.5063969,0.035110157,-0.0044740215,0.3469111,0.6657555232077326,0,The two young women are laughing outdoors by a tree trunk .,two young girls climbing up a tree
+0.008890195686453389,0.0,0.19031794,0.00046827403,-0.99237555,0.21267468,-0.42258961024327946,1,A female toddler wearing a pink shirt is playing on a playground .,a black and white dog playing on a green artificial artificial artificial artificial artificial artificial artificial artificial artificial artificial artificial artificial
+0.0,0.0,0.05230517,0.0010756588,-0.99718034,0.18611778,-0.6351940552875599,1,A person on a downhill skateboard .,a group of men playing a game of field hockey
+0.29417723276570573,0.3333333333333333,0.63968253,0.054442514,0.052151546,0.3389986,0.8141922475184815,0,A dirt bike rider jumps into the air and does a trick .,a man flying through the air while riding a bike
+0.0,0.0,0.021564806,0.00032371213,-0.9982572,0.22121787,-0.5578121091410717,1,a little girl running in a field,a dog and a dog playing in the sand
+0.0,0.0,0.17338812,0.00032614742,-0.9984024,0.19539398,-0.5014227102682194,1,A brown dog is jumping through a field .,a young boy playing on a slide in a playground
+0.0,0.0,-0.121260196,0.00021689077,-0.9920705,0.19742888,-0.7559375013396343,1,A girl in a pink hat is running past a green wheelbarrow .,two dogs playing in the sand at the beach
+0.18768544536005619,0.14285714285714285,0.51871276,0.038727593,-0.6719776,0.29750904,0.41816963624821674,0,A man rides a bike on a dirt path .,a person riding a mountain bike down a hill
+0.3418825474918988,0.3333333333333333,0.6444825,0.0012846484,-0.009927855,0.35865715,0.8530148330663093,0,"A man in all black is using a green bike to trick over a sign saying , "" Free Dinner "" .",a man doing a trick on a bike
+0.0,0.0,-0.095965855,0.0003221019,-0.9985638,0.17625952,-0.7972046951934895,1,A brown dog is running on a dirt path .,a group of people watching a fire show
+0.0,0.0,0.05517051,0.0003044189,-0.99843955,0.07399224,-0.97183576926442,1,A black and white dog jumps over a hurdle .,a woman blowing a bubble with a blower
+0.5251523282307524,0.5,0.7373886,0.006564188,0.0051474585,0.32720262,1.0871789444466242,0,A brown dog is running on a dirt path .,a dog running down a dirt road
+0.4289528298564326,0.16666666666666666,0.8194337,0.9164777,0.90921223,0.2911682,2.4097120579207574,0,A man on bicycle riding down a rocky hill .,a man riding a mountain bike down a rocky trail
+0.0,0.0,-0.20259678,0.00026447605,-0.9866664,0.17700824,-0.889303981809338,1,A man dressed in a purple shirt and red bandanna smiles at the people watching him .,two dogs running in a field
+0.21638502819844296,0.3333333333333333,0.37028003,0.00035198193,-0.9701065,0.30471164,0.28339390290600835,0,Two brown dogs are biting on a black Frisbee .,two dogs running in a field
+0.0,0.0,-0.048240937,0.00058157835,-0.98525345,0.28831723,-0.4168799887582859,0,A man with a shaved head and something in his mouth is holding on to a red rope .,a young boy is swimming in the water
+0.0,0.0,-0.0033167275,0.00033177642,-0.99851775,0.15995637,-0.7644204418346485,1,A brown toy dog is running across low snow with tail raised .,a group of people standing in front of a train
+0.6834826765377983,0.6666666666666666,0.71342576,0.59408486,0.4548778,0.27861392,2.083341496215061,0,The dogs are behind the fence .,two dogs looking through a fence at the camera
+0.0,0.0,-0.014778763,0.00037555784,-0.9981294,0.17319968,-0.7345696236178478,1,A group of people are flying colorful kites near a beautiful snow-capped mountain range .,a young boy riding a skateboard down a road
+0.0,0.0,-0.08771388,0.00070094387,-0.99796116,0.17311428,-0.7987711499616703,1,a little girl swings on the swing .,a man is surfing on a large waterfall
+0.0,0.0,0.07216589,0.00035300566,-0.9979962,0.13131353,-0.7839812035843929,1,A boy is standing at the edge of a wave with the sun setting or rising in the background .,a little girl walking down a path in the woods
+0.32583312381928775,0.3333333333333333,0.5265454,0.002202966,-0.9611355,0.32961577,0.6418708057529489,0,A black dog bites at a stream of water on the grass .,a black dog is playing in the water fountain
+0.0,0.0,0.18861686,0.0106616765,-0.8795221,0.31687427,-0.1049981373533806,0,A male and a female are leaning against railing looking off with the ocean in the background,a man walking up a steep path next to a body of water
+0.312584753319962,0.25,0.30154502,0.00023131308,-0.9983258,0.31720266,0.3851247566056262,0,A family jumps into a blow up raft in their living room .,a couple of people laying on a couch in a living room
+0.311526052906486,0.5,0.7395481,0.008393518,0.0046665915,0.29430065,0.7152316859393042,0,A grey bird stands majestically on a beach while waves roll in .,a bird standing in the surf of a beach
+0.0,0.0,0.013582922,0.00031707692,-0.99853706,0.09410567,-0.9479619260117611,1,A group of Asian teenagers are holding flags on a street .,a dog jumping in the air
+0.16246539129204388,0.14285714285714285,0.45675278,0.0077594644,-0.11299565,0.31425834,0.3305981151471324,0,Three people are standing on the ruined building with their arms outstretched .,a group of people standing on top of a brick wall
+0.10807071924096368,0.25,0.28919804,0.0035182268,-0.6629133,0.3097765,0.09135243902481574,0,A boy holds a large icicle .,a young boy standing on a sidewalk next to a tree
+0.2816376557655868,0.14285714285714285,0.8341281,0.3031276,0.29601863,0.32118472,1.3215867001674588,0,A female tennis player swings for the ball .,a woman swinging a tennis racket on a tennis court
+0.4417690039308617,0.2,0.661906,0.05810406,0.04843824,0.31746656,0.9667626258952099,0,A dirty jeep is stuck in the mud .,a jeep driving through a mud puddle in the woods
+0.22355880608088097,0.16666666666666666,0.48148564,0.0015332227,-0.08436425,0.34208924,0.505596907697769,0,A boy wearing a red t-shirt is running through woodland .,a little boy running on a dirt road
+0.0,0.0,-0.022893295,0.00056014286,-0.9982382,0.08323661,-1.0125670950100025,1,A baby is held by an adult and is sitting on a table at a coffee shop .,a dog running across a field with a ball in its mouth
+0.0,0.0,0.14948511,0.00034257246,-0.9985312,0.11355818,-0.7691579531118473,1,A kayaker falling down a waterfall,a black dog running on a beach near the ocean
+0.0,0.0,0.11581562,0.0003438531,-0.9985686,0.17001635,-0.6287695537492832,1,A person in a red and white suit kneels down on his skateboard and rides down a road .,a dog running through the snow covered ground
+0.0,0.0,0.20682532,0.0006251177,-0.9930218,0.20156567,-0.4527768786236843,1,A man at a skate park doing a stunt .,a person riding a mountain bike down a hill
+0.0,0.0,0.08527017,0.00029018105,-0.9985382,0.20288727,-0.5567948813721737,1,A man climbs up a rock while others wait for their turns .,a dog running through the grass in a field
+0.04343260218560227,0.14285714285714285,0.260719,0.0027237865,-0.0071496754,0.21455319,-0.30611619928727146,1,A black and white dog with a Frisbee in his mouth on his hind legs,a dog is laying on a blanket in a boat
+0.06396719645480244,0.2,0.3597512,0.000521293,-0.97781193,0.31384084,0.10375592355115487,0,A dog carries a newspaper through a kitchen .,a dog is sitting on the floor in a room
+0.08230915116121225,0.14285714285714285,0.25239813,0.00038779553,-0.9968343,0.29872668,-0.013070362929229862,0,A man in a wheelchair riding to the park .,a man sitting on a bench in front of a building
+0.17719355599073225,0.6666666666666666,0.5881223,0.0044256877,0.0030929502,0.29766968,0.4104434565037622,0,A big light brown dog runs on the green grass .,a dog running in the grass near a house
+0.0,0.0,-0.00515474,0.0003354656,-0.99854916,0.11100464,-0.9135669763371548,1,A boy and a dog on a dock are watching another dog swim away .,a group of women playing volleyball on a beach
+0.0,0.0,-0.047491,0.00046025403,-0.9984341,0.21208808,-0.6461496870205006,1,A man in a wheelchair riding to the park .,a group of children standing next to a car
+0.07437889476023371,0.2,0.26454496,0.0013728174,-0.022359459,0.33775026,0.10657233132610772,0,A girl in a pink hat is running past a green wheelbarrow .,a little girl playing in the yard of a house
+0.1853841164956436,0.16666666666666666,0.52165306,0.0014743821,-0.015728077,0.29572442,0.3516563389473248,0,Two boys in denim play with hula hoops,two young boys playing with a toy in the grass
+0.0,0.0,0.012071021,0.00021199384,-0.997882,0.15861806,-0.7550462852403721,1,A girl in a pink hat is running past a green wheelbarrow .,a woman sitting at a table with a dog
+0.19130362853956068,0.08333333333333333,0.34172732,0.00032836437,-0.9972593,0.38432503,0.465446831756288,0,"A dark haired woman wearing a brown jacket and fatigue bottoms and a balding man wearing a green sweater and blue jeans with a fishing pole , stand at the foot of the surf .",two men fishing on the beach
+0.0,0.0,0.14527208,0.0019371004,-0.29878524,0.27992818,-0.26888658806534615,0,A lady laughs as she and a man drink coffee .,a group of people sitting at a table
+0.0,0.0,0.44058833,0.0030864463,-0.2135454,0.34953618,0.20382759019879493,0,"two boys , one in yellow shorts and one in red shorts , are playing with body boards in the ocean .",two people in the water
+0.23857640864550791,0.3333333333333333,0.63901114,0.032259922,0.022161577,0.35122424,0.7420016696731007,0,A child stoops to pick up a watermelon from a large pile of them .,a little girl standing in front of a pile of watermelons
+0.0,0.0,-0.1733399,0.00024951636,-0.9979051,0.14734001,-0.9528775657698711,1,A man in sunglasses gets ready to pull a chair out to sit down for his meal .,a group of women wearing bunny ears
+0.0,0.0,0.13843405,0.00036235014,-0.9984802,0.07869591,-0.883960634021481,1,A brown dog next to a stone bench .,a baby sitting in a high chair eating food
+0.6775949345454798,1.0,0.8004358,0.15229303,-0.085649595,0.3498995,1.6470832491822036,0,A girl slides down a purple slide .,a little girl sitting on a purple slide
+0.4239005267744255,0.3333333333333333,0.39314777,0.0031386614,-0.0052316217,0.3027796,0.5720680681284875,0,A man in a checked shirt is sitting at a table looking back at a group of people behind him .,a man sitting at a table in a park
+0.7047086870803004,0.5,0.91327834,0.30790076,0.2839123,0.3239028,1.9574567817851827,0,Two boys playing in the surf on the beach .,two boys playing in the water at the beach
+0.5315250784195135,0.5,0.61056936,0.0025082186,0.00020781602,0.34892642,1.0422107220751018,0,A little boy in a black shirt is holding a red guitar .,a little boy playing a guitar on the stairs
+0.5128305083635586,0.4,0.487886,0.006053638,-0.016590657,0.29406312,0.7498957580895235,0,A football player passes the football to a teammate as the crowd looks on .,a football player is running with the ball
+0.0,0.0,0.09744646,0.00033442926,-0.9985379,0.11659956,-0.8060075114652714,1,A brown and black dog fetching a tennis ball in a lake .,a woman playing a violin on the street
+0.32355244058103344,0.6666666666666666,0.6265265,0.009024964,-0.0056914706,0.32533547,0.7255134178671793,0,A brown dog is jumping through a field .,a dog running through a field of tall grass
+0.44330505068440235,0.5,0.56131834,0.0031490389,-0.4998076,0.31620643,0.7864357556521635,0,A man walking 3 dalmatians along a sunny street .,a man walking two dogs down a street
+0.0,0.0,0.094939895,0.00026652787,-0.99845654,0.13969599,-0.738727442471703,1,A baby sits in a black and white chair and puts its fingers up its nose .,a subway train with a bunch of trash on the side
+0.0,0.0,0.122987285,0.0004048973,-0.9930507,0.18418665,-0.5796246449634632,1,"A big , shaggy dog runs in a field of dandylions .",a group of children playing in the grass
+0.0,0.0,-0.13730924,0.00043012004,-0.998479,0.08486514,-1.109014942793568,1,A child holding a tennis racquet running on a tennis court .,two dogs wearing harnesses in the snow
+0.0,0.0,0.092706315,0.0003136706,-0.9977419,0.15477452,-0.695182278303822,1,A tent is being set up on the ice .,a group of children playing with toys on the floor
+0.0,0.0,0.18408717,0.0003270217,-0.99857396,0.2133258,-0.43792150124760476,1,A woman riding a horse in a show jumping competition .,a white dog playing in the snow
+0.0,0.0,0.053718947,0.00031137146,-0.99856573,0.11720545,-0.8428742359563908,1,A black dog leaps over a log .,a person riding a motorcycle on a track
+0.0,0.0,-0.020347126,0.00021965367,-0.9968288,0.20969,-0.6297739367172321,1,A man and a woman wearing masks embrace at an outdoor festival .,a dog jumping in the air
+0.0,0.0,-0.038008142,0.0002716692,-0.99848616,0.18071419,-0.7326270337388119,1,A brown dog is running next to a chain link fence while a darker dog stands nearby .,a little girl sitting on the ground with her skates
+0.0,0.0,-0.056977004,0.00035366666,-0.9984761,0.10594563,-0.9745947490617832,1,A boy holds a light saber in front of a Christmas tree .,two dogs playing in the water at the beach
+0.0,0.0,0.14935043,0.00048196767,-0.9973001,0.18999678,-0.5386837343856892,1,A baby is laughing .,a dog is running with a ball in its mouth
+0.17851570378630943,0.2,0.4907561,0.001982328,-0.009903323,0.29685324,0.3196457556540429,0,"A family of nine people , including four children , pose in front of a brick fireplace with a white mantle .",a family sitting on a couch in front of a christmas tree
+0.0,0.0,-0.06132319,0.00022210166,-0.9981657,0.15625866,-0.8270209576174816,1,A child wearing pink boots is splashing in a puddle behind the red truck .,a man walking two dogs down a sidewalk
+0.2967589154923749,0.4,0.544003,0.0021826446,-0.009515257,0.35146582,0.6853285752560252,0,A boy in a wetsuit jumps into a pool with a bald man .,a man jumping into a swimming pool
+0.0,0.3333333333333333,0.35652694,0.0014711862,-0.02814071,0.32255122,0.045557894261161413,0,A black dog is chasing another black dog .,two dogs playing in the grass next to a tree
+0.11413310903140925,0.25,0.71253186,0.0007345361,-0.9962497,0.30612597,0.4579192735230307,0,A boy runs down a concrete hill .,a young boy running down a dirt path
+0.06420768105460824,0.2,0.47652054,0.006792227,-0.030872798,0.35810003,0.35090332709903876,0,A brown dog is sitting in the front of a canoe .,a dog is laying on a blanket in a boat
+0.0,0.0,-0.12267384,0.00038603973,-0.9984542,0.107089385,-1.0291710193440518,1,A group of people in hazmat suits are standing with a dummy on a stretcher .,a dog running through the water in a river
+0.4769240590862006,0.5,0.7033393,0.06780203,0.029033188,0.28048834,0.9534559720699949,0,A guy is hanging on a big rock in the woods .,a person sitting on a rock in the woods
+0.0,0.0,-0.053629868,0.00059980317,-0.9980974,0.14557855,-0.8517912845298847,1,A bunch of children sitting in chairs and standing on wooden floors .,a man walking up a hill on a sunny day
+0.07501758864773497,0.2,0.33872202,0.0046273544,-0.4157486,0.24813336,-0.0918001875029415,1,A black dog soaked in liquid jumping to the grass .,a dog running with a ball in its mouth
+0.0,0.0,0.04655029,0.00034766505,-0.9985643,0.16198198,-0.7142074103638729,1,A black dog leaps over a log .,a man standing in front of a group of lions
+0.0,0.0,-0.0058248956,0.0003665239,-0.9985237,0.17408225,-0.7240092973396381,1,Two brown dogs are biting on a black Frisbee .,a person jumping on a bike in the air
+0.0,0.0,-0.0075001474,0.00052038516,-0.99823624,0.20128164,-0.6432674746200642,1,A boy hits a baseball with the bat .,a white dog running in the snow
+0.24934430492264975,0.25,0.49767104,0.008572608,-0.1407554,0.27165008,0.35261469691517877,0,A blue plane does loops as it heads down to earth .,a plane flying in the sky
+0.0,0.0,0.17403382,0.008720287,-0.97395635,0.20946337,-0.44476348489375916,1,A biker is riding along a track element located with a wooded area .,a person is skiing down a snowy mountain
+0.0,0.0,0.027352683,0.0006933144,-0.9980066,0.15447234,-0.7532466049477657,1,A man is riding an elephant while another person is touching the elephant 's head .,a young boy running with a football on a field
+0.0,0.0,-0.018051496,0.00046441174,-0.99841076,0.15346648,-0.7967885802671513,1,A dog chasing a ball indoors .,a person riding skis down a snowy slope
+0.0,0.25,0.3193222,0.0019265459,-0.6997649,0.31393686,-0.0125500834718546,0,A black dog soaked in liquid jumping to the grass .,two dogs playing in the water with each other dogs
+0.42372855133265036,0.3333333333333333,0.6085253,0.009704576,-0.11509539,0.31101534,0.7977647605715502,0,A climber wearing a white helmet is perched on the side of a rock face .,a man climbing up a rock face to face
+0.14594027223653294,0.3333333333333333,0.4255181,0.041994404,-0.20415717,0.31429255,0.33743100233446016,0,A boy hanging onto a pole .,a young boy is playing on a playground
+0.0,0.0,-0.03747566,0.0015637984,-0.7874982,0.113150984,-0.9336673240348896,1,Tourists pose for camera at night .,a group of men playing a game of rugby
+0.09899088499248503,0.3333333333333333,0.44863972,0.0012528508,-0.25302374,0.3137382,0.22874230120836997,0,a black dog runs through the black mud .,a dog running on the beach
+0.0,0.0,-0.06953848,0.00028520593,-0.9983776,0.14213705,-0.8767392332837185,1,A hiker with two hiking poles stands on a hillside with a view of the city below him .,a dog swimming in the water
+0.3350690320110842,0.2857142857142857,0.43303213,0.0059699584,-0.008776401,0.2632864,0.3774531005106672,0,A group of people are getting fountain drinks at a convenience store .,a group of young men standing in a store
+0.17919555778945215,0.14285714285714285,0.5574564,0.057957478,0.02758052,0.36872095,0.6873526196956615,0,A boy is standing at the edge of a wave with the sun setting or rising in the background .,a young boy standing in the water at the beach
+0.7809655414131476,1.0,0.91126925,0.0029678536,0.0010096398,0.3451531,1.6216411783331266,0,A girl is jumping in the air while holding an orange and white guitar .,a girl jumping in the air with a guitar
+0.5788783486856397,0.5,0.6686136,0.0047064438,-0.0023438367,0.34046987,1.1331722175443117,0,a man in a red shirt is laying on the grass reaching out to another person .,a man laying in the grass
+0.0,0.0,0.41602862,0.0058849393,-0.2645794,0.26125413,-0.07937923773976174,0,A band is playing music underneath a white canopy .,a group of people sitting under a tent
+0.0,0.0,-0.047946572,0.00027371227,-0.9985262,0.20256689,-0.6755509372040829,1,A man in a uniform stands next to a girl with purple hair holding a cup .,a woman walking along the shore of a lake
+0.39065997902151606,0.4,0.7988086,0.020033998,0.018485881,0.32518893,0.9825493357008722,0,A black and white dog is running in a grassy garden surrounded by a white fence .,a dog running in the grass near a white picket fence
+0.5729935183698177,0.5,0.81184554,0.024143469,0.021020804,0.3652434,1.3584937394496086,0,A little girl in a rain puddle .,a little girl standing in the middle of a puddle
+0.11238304026740406,0.0,0.06558318,0.00037135242,-0.9970944,0.15257761,-0.5796054932569932,1,A bearded man reads while sitting on a wall in a park .,a group of people sitting around a table in a room
+0.0,0.0,0.42131507,0.0068282085,-0.89163417,0.2856847,0.0004593957975307372,0,A boy wearing skates sliding down concrete railing of steps near a pole .,a skateboarder is doing a trick on a ramp
+0.0755963362260367,0.14285714285714285,0.09558984,0.00033114862,-0.98798543,0.2582023,-0.2826368193306281,1,A big brown dog sniffs a smaller dog in the gravel beside a body of water .,a dog jumping in the air over a flower bed
+0.18619936439859228,0.25,0.5040352,0.0024088153,-0.0016833146,0.35421863,0.5149517270691337,0,A doberman bites a large blue ball .,a dog playing with a ball in the grass
+0.07783696343774534,0.25,0.7072936,0.92808235,0.9272147,0.27331293,1.8192946250264963,0,A dog in a snowy area .,a dog running through the snow covered ground
+0.15344578375415371,0.16666666666666666,0.30342275,0.004722817,-0.38060293,0.2774928,0.06757706328340579,0,a elderly lady and a middleaged man talk over a table .,a group of people sitting at a table in a restaurant
+0.06361652141952963,0.0,0.29341277,0.0020430733,-0.021410495,0.26479208,-0.10068193576441473,0,A big sister in pink is giving her little sister a piggy back ride .,a woman holding a little girl in her arms
+0.3797256650295924,0.4,0.69696045,0.04766139,-0.86163664,0.2576256,0.7197318527657288,0,A group of people sitting around a desk .,a group of people sitting around a table in a room
+0.1364627204202514,0.16666666666666666,0.6976762,0.15674654,0.1457669,0.336002,0.8182338165488672,0,children smiling with facepaintings,a group of children with face paint posing for a photo
+0.3672986634483587,0.3333333333333333,0.73534036,0.0013373358,-0.01227009,0.34641254,0.9295541101552678,0,Two girls in blue and teal dresses and large hats are standing next to a large tree trunk .,two little girls standing in front of a tree
+0.0,0.0,-0.054292496,0.0006425037,-0.9980453,0.14957963,-0.8402491952464184,1,three children in a field with white flowers,a woman in a cowboy outfit is dancing
+0.43541053359212867,0.3333333333333333,0.5210587,0.0019913334,-0.009814981,0.31901944,0.7471745319418159,0,A bald man in a tank top riding bike through a city .,a man riding a bike down a street
+0.0,0.0,0.19245347,0.0001972762,-0.9976905,0.1583531,-0.5964106018826565,1,A child wearing pink boots is splashing in a puddle behind the red truck .,a dog running through the snow covered ground
+0.48976101918712217,0.4,0.6051439,0.0036582225,-0.0016638231,0.3617217,1.0235645049135167,0,A group of Asian teenagers are holding flags on a street .,a group of people holding black and white flags
+0.0,0.0,-0.006690569,0.0016272585,-0.5289512,0.16302724,-0.7560357670471272,1,a man wears a red bandanna,two people sitting in the back of a car
+0.0,0.0,-0.08499184,0.00019558336,-0.9966653,0.19722936,-0.7245123158380589,1,A football player passes the football to a teammate as the crowd looks on .,a small brown dog running in the snow
+0.0,0.0,0.34111506,0.009964727,-0.019384656,0.28786087,-0.058764848409613046,0,Little kids stand together and receive an award for something .,a group of people standing around a podium
+0.0,0.2,0.5321224,0.03787277,0.029417174,0.2979077,0.18586938873080405,0,A big dog and a little dog stand near each other near the water .,two dogs playing on the shore of a lake
+0.35090871397835927,0.4,0.53823596,0.0048673265,0.00062213046,0.32435793,0.6732982187958751,0,A person in a red and white suit kneels down on his skateboard and rides down a road .,a young boy riding a skateboard down a road
+0.2203950630567837,0.16666666666666666,0.35402545,0.0052938005,-0.90870494,0.28828737,0.2327966242765131,0,the three boys are all holding onto a flotation device in the water .,two people swimming in the water with one person in the water
+0.07477498735246073,0.16666666666666666,0.21779379,0.0011488331,-0.66095465,0.3206225,0.013775355254284749,0,A black dog finishes running down a blue and orange ramp .,a woman and her dog playing in the grass
+0.19656879128848653,0.16666666666666666,0.49115062,0.0015474828,-0.007306733,0.36021698,0.533713448220069,0,A child wearing pink boots is splashing in a puddle behind the red truck .,a little girl jumping in the mud puddle
+0.12312415134559299,0.0,0.2283656,0.00034263812,-0.9985196,0.19351554,-0.2984145134226829,1,a little girl ends up at the bottom of the slide .,a little boy holding a snowball in the snow
+0.0,0.0,-0.048215605,0.0004402869,-0.99843085,0.16316679,-0.7942587728783688,1,Two brown dogs are playing in a field .,a group of people standing on top of a mountain
+0.0,0.0,-0.11059536,0.00036933355,-0.98986167,0.1575545,-0.8664321373388371,1,"A crowd is watching 2 shirtless men , one in yellow pants and one in black shorts perfom .",a dog is running on the side of a road
+0.0,0.0,0.08760264,0.0062383045,-0.73328835,0.22578132,-0.476037609873732,1,A flag is carried .,a man and a woman are standing under a tree
+0.0,0.0,0.12155382,0.00032287237,-0.99751496,0.17911075,-0.5963230203077396,1,A parachute caught on a tree with some people on the ground shining a light at it .,a dog standing in the middle of an obstacle course
+0.11482953007761015,0.25,0.4674841,0.00654931,-0.22808553,0.33334714,0.3337208158151366,0,A blonde girl climbing on a play set .,a little girl is playing on a slide
+0.19760242337128364,0.5,0.6022003,0.0035929664,0.00060672686,0.3228597,0.5239751950349676,0,"A big , shaggy dog runs in a field of dandylions .",a dog running through a field of flowers
+0.03927158192132512,0.16666666666666666,0.58807445,0.2763837,0.1890485,0.3313825,0.7761633601343951,0,A man is asleep on the ground near two bank machines .,a man sleeping on the sidewalk next to an atm
+0.0,0.0,-0.007824652,0.00028490895,-0.99850243,0.1410792,-0.8253727252766689,1,A group of guys are playing soccer on the beach .,an old man sitting on the sidewalk
+0.0,0.0,-0.037504554,0.00038021881,-0.9984644,0.14496486,-0.8397440160796246,1,A black dog bites at a stream of water on the grass .,a group of children with face paint posing for a photo
+0.0,0.0,0.055969737,0.00030465273,-0.99795663,0.23338613,-0.49075724698456136,1,Two hikers stand at the top of a snowy mountain .,a man sitting on a rock
+0.07067538342088354,0.16666666666666666,0.505283,0.00056665554,-0.9971952,0.23876989,0.014955445139598178,0,A man on rollerblades is doing a trick .,a man riding a skateboard down the side of a ramp
+0.05104466958918556,0.125,0.15790042,0.0005216619,-0.9980886,0.14835435,-0.5902100565784855,1,A dog in a life jacket sitting on a boat with a man in the cockpit .,a man carrying a woman in a green shirt
+0.0,0.0,0.10720825,0.0002960658,-0.9954155,0.16232096,-0.6596482764169773,1,A basketball player in a blue jersey holds the ball high .,a little girl swinging on a swing in the air
+0.21231801924404145,0.25,0.35310304,0.0016104241,-0.9772333,0.25715274,0.12164476311595396,0,a little girl running in a field,a person is walking in a field with a kite
+0.1991771910759555,0.16666666666666666,0.19175021,0.017814308,-0.25423947,0.25131732,-0.029237656079359783,1,A child steps up on a playground toy as arms reach for her .,two young boys playing with a toy in the grass
+0.5005262844306724,0.5,0.68035614,0.060173128,-0.20098346,0.3291684,1.0980879217276018,0,a little girl ends up at the bottom of the slide .,a little girl sitting on a slide in a playground
+0.0,0.0,-0.056648884,0.00023250582,-0.99838644,0.09510127,-1.0071843336507877,1,a blond girl doing a handstand on a beach,a group of cats laying on the ground
+0.0,0.3333333333333333,0.4263703,0.0030126532,-0.47695497,0.3091614,0.06945943132189902,0,A black and a brown dog are fighting .,two dogs playing with each other dogs in a living room
+0.0,0.0,-0.022388179,0.00023246297,-0.9943271,0.17083947,-0.7486427421853146,1,An elderly woman is wearing a pink striped shirt .,a dog running on the beach
+0.0,0.0,0.035645876,0.0002622157,-0.9984841,0.14847642,-0.7646884839222035,1,A woman holding a baby and making faces at it .,the dog is black and white
+0.0,0.0,0.004518319,0.0003508297,-0.9985303,0.13093485,-0.8449264909312328,1,A girl in a purple dress smiling as she climbs an indoor rock wall .,a man doing a trick on a bike at night
+0.39463003735263863,0.14285714285714285,0.52285534,0.0027781897,-0.81653,0.33369142,0.7412549764663529,0,An Ambulance is passing a man wearing a bandanna and girl .,a group of people standing in front of an ambulance
+0.5042812081035982,0.3333333333333333,0.6310456,0.030852377,0.028652837,0.31151715,0.9583732891492491,0,A baby clutching a stuffed animal is smiling .,a little girl holding a stuffed animal
+0.3760801783682361,0.5,0.74726933,0.032722004,0.030195698,0.3547232,1.0277338985589144,0,A brown toy dog is running across low snow with tail raised .,a small brown dog running in the snow
+0.5976342895231046,0.6666666666666666,0.7291808,0.002996696,-0.0047152713,0.35949475,1.2656416832128734,0,A little boy in a red sweater is climbing a tree .,a little boy in a tree
+0.6539454695435444,1.0,0.78127754,0.0048707384,0.0032905883,0.31248325,1.2462663580903937,0,A bearded man reads while sitting on a wall in a park .,a man sitting on a wall in a park
+0.0,0.0,-0.055916935,0.0003625848,-0.99855036,0.098004915,-0.9975743363782963,1,A man in a wide-brimmed hat is sleeping against a column .,a little girl holding a stuffed animal
+0.08650510284230456,0.14285714285714285,0.22738424,0.007372285,-0.8089074,0.34068817,0.10812089793975418,0,A group of teens in gather in prom attire .,a group of people standing in a field
+0.17119449773663314,0.3333333333333333,0.53708386,0.015991393,-0.27783933,0.31654528,0.4332720412348923,0,"A man , leaning against a concrete wall with his arms resting on top , looks over a balcony .",a man sitting on a wall looking at his cell
+0.0,0.0,0.15429486,0.0005502662,-0.99823445,0.17692387,-0.5735998298213085,1,A man and a boy behind the wheel of a car .,two dogs playing in the grass next to a tree
+0.09728809630759368,0.25,0.23237106,0.0002503876,-0.9970153,0.23107198,-0.21542165343539146,1,a girl wearing pink bounces on a bed,a little girl looking out a window
+0.16951012376140978,0.16666666666666666,0.53609407,0.008012905,-0.05328206,0.28609973,0.3254434824022751,0,Three dogs looking at a cement ledge .,a group of dogs standing in front of a building
+0.27490798650223147,0.5,0.74388313,0.0024516343,0.00016682153,0.25710207,0.5496708116248668,0,A man in blue and black surfs on a huge white wave .,a man is surfing on a wave in the ocean
+0.0,0.0,0.28096074,0.057759676,-0.15827315,0.20746659,-0.27629724845143167,1,A boy dressed for Halloween,a man wearing a mask and holding a newspaper
+0.0,0.0,0.019442694,0.00040659044,-0.99844843,0.20628846,-0.6045462782666287,1,A baseball pitcher with Shelton on his shirt throws the ball .,a group of people playing soccer on the beach
+0.0,0.0,0.08517252,0.00021445943,-0.99825853,0.1335239,-0.7660477603957256,1,A monk in a red shawl looks at the camera,a dog standing in the water with a stick in it ' s mouth
+0.03937839427045101,0.2,0.39593607,0.0082334755,-0.10100025,0.27250254,-0.008226093074300805,0,A man gazes over the rail in the peaceful early morning .,a man standing on a bridge looking at the city
+0.0,0.0,-0.026877712,0.00035383648,-0.97835886,0.09696826,-0.9750421042725643,1,a boy in an orange jersey is about to pitch a baseball .,a jeep driving through a mud puddle in the woods
+0.0,0.0,0.20996416,0.00058898394,-0.98475015,0.21926162,-0.39673008724900094,1,A man in a red coat skiing .,two people playing with a dog in the snow
+0.0,0.0,0.100107566,0.000477094,-0.9983264,0.15133339,-0.6987437526866993,1,A family jumps into a blow up raft in their living room .,a skateboarder doing a trick at a skate park
+0.32776637157007393,0.4,0.69944847,0.014950626,-0.96095866,0.37419322,0.9523604808563358,0,a man kneeling on the ground surrounded by several cats,a man sitting on the floor with a bunch of cats
+0.2221169057570142,0.25,0.52617383,0.0005115379,-0.9972793,0.31609184,0.4632117677830512,0,A few dogs swimming in a lake .,a group of dogs playing in a fountain
+0.42285566437309974,0.3333333333333333,0.64675575,0.017390063,-0.32715815,0.2930414,0.7887886450891646,0,A group of kids in red and white playing soccer .,a group of young men playing a game of soccer
+0.0,0.14285714285714285,0.36835393,0.0034765592,-0.34354228,0.30047926,-0.007236327527483377,0,A big black dog chases a big brown dog with a green object in his mouth while another big brown dog tags behind .,two dogs playing with a ball in the yard
+0.48320597490316597,1.0,0.64389503,0.0017919602,-0.08596647,0.3176736,0.9135075249607261,0,A large white dog growling at a large black dog .,a black and white dog and a black and white dog
+0.0,0.0,0.11747036,0.0076107844,-0.97583747,0.17870952,-0.5892587932929596,1,the three boys are all holding onto a flotation device in the water .,a group of people riding ski boards through the woods
+0.0,0.2,0.13270046,0.0002499926,-0.9949327,0.18291146,-0.5751338745638928,1,A man in an orange hat pulls a cigarette out of a box .,two men in a black and white uniform
+0.4280485058195332,0.6666666666666666,0.7312558,0.003947342,0.0017854162,0.31231406,0.9064005549151346,0,a girl wearing pink bounces on a bed,a little girl jumping on a bed
+0.0,0.25,0.59618247,0.024540044,0.0199349,0.33137318,0.3216152475043932,0,A white and black dog and a brown dog in sandy terrain .,two dogs playing in the sand at the beach
+0.0,0.0,-0.07370797,0.0008939078,-0.7225071,0.21315837,-0.6653928230688175,1,A dark haired man in his twenties drinks a green liquid from a plastic mug .,a group of people sitting on a park bench
+0.0704204488719773,0.125,0.3506642,0.0026213853,-0.90867764,0.28517967,0.021158257774125402,0,A boy smiles in front of a stony wall in a city .,a little boy walking down a street next to a lamp post
+0.6214153528684048,0.25,0.66626465,0.0041542873,0.0024706156,0.29365104,1.0443871959513342,0,A man is riding on a red motorcycle .,a person riding a motorcycle on a road
+0.6249785043803384,0.25,0.7212812,0.020242963,0.017181821,0.29933006,1.1410016494723183,0,A girl is blowing a huge bubble .,a woman blowing a bubble with a blower
+0.25658279559259844,0.2,0.65547127,0.057526644,-0.03236231,0.31671312,0.7171487519595665,0,A group of girls are posing together with males nearby .,a group of young women posing for a picture
+0.04253061400221264,0.1111111111111111,0.5376016,0.004611871,-0.14338438,0.34853697,0.3443464736361452,0,A man on a bicycle jumping off a dirt ramp with one foot on the ground,a man doing a trick on a bike at night
+0.0,0.0,0.06240895,0.00037854706,-0.99852747,0.21928063,-0.5274548004552921,1,a little girl running in a field,a group of people standing around a white fence
+0.0,0.0,0.08442435,0.001083657,-0.9972308,0.15390272,-0.7038754145786366,1,A football player holding a football .,a group of people doing gymnastics in a gym
+0.0,0.0,0.092660904,0.00028658367,-0.9948588,0.17169344,-0.6442773784682354,1,A man in sunglasses gets ready to pull a chair out to sit down for his meal .,a person riding a motorcycle on a road
+0.0,0.2,0.3298993,0.0028595657,-0.03728948,0.33976513,0.07616108887044581,0,A child in gray clothes is sleeping on a red cushion .,two children laying on a couch with a stuffed animal
+0.0,0.0,0.024709824,0.0033094988,-0.9394619,0.18018539,-0.6738246823832592,1,A boy dressed for Halloween,two men walking down the street
+0.0,0.0,0.0044018403,0.00047354863,-0.959398,0.31427822,-0.29228027865143624,0,A man in camouflage pants and a backwards cap carrying a toolbox and a backpack .,a group of people walking down a street
+0.12322309471297221,0.16666666666666666,0.3938325,0.005989857,-0.23796782,0.26853,0.08326899550152995,1,A girl in a red shirt is rock climbing .,a girl jumping in the air with a guitar
+0.0,0.0,0.29326195,0.008619807,-0.63201827,0.23529923,-0.26166704531612006,1,A long haired mail is swinging his wet hair around in the ocean .,a person doing a handstant on the beach
+0.0,0.0,-0.08805074,0.0003680265,-0.99843264,0.1384551,-0.9040654818698963,1,A boy and a dog on a dock are watching another dog swim away .,a man with a shopping cart in front of a building
+0.1452770353140293,0.2,0.45695204,0.0022144255,-0.00090491027,0.33536524,0.363001354578052,0,A female wearing pink gloves and a brown jacket is smiling in the snow .,a woman walking through the snow in a park
+0.0,0.0,0.10526179,0.00019062798,-0.9975086,0.15708914,-0.6773081864401898,1,A small girl in yellow slides down an orange slide .,a storefront with a window display in front of it
+0.0895038246010423,0.25,0.26201764,0.0039199293,-0.061488524,0.25040776,-0.13507609980207352,1,A black and a brown dog are running toward the camera .,a dog jumping over an obstacle in a park
+0.0,0.0,-0.051512245,0.00025783092,-0.9984945,0.18828252,-0.7217782433316311,1,A brown and black dog fetching a tennis ball in a lake .,a man riding a skateboard down a path
+0.20278329945258383,0.16666666666666666,0.50597394,0.08376328,-0.022434235,0.28509104,0.46254113706919264,0,A basketball player concentrating on keeping the ball from other players .,a group of men playing a game of basketball
+0.22585858006734377,0.4,0.7071552,0.0035878138,-0.0034679447,0.38652653,0.8453507944049161,0,A black dog holding an orange object in the water .,a dog with a toy in its mouth in the water
+0.0,0.0,-0.0695547,0.0002294245,-0.9982418,0.07841894,-1.068874291627129,1,A bus filled with passengers in Chicago at night .,two dogs playing in the grass with each other dogs
+0.0,0.0,0.13922212,0.0005314126,-0.9956046,0.25495565,-0.3517874661073288,0,A parachute caught on a tree with some people on the ground shining a light at it .,a man flying through the air while riding a snowboard
+0.0,0.0,0.45739904,0.0009770964,-0.9854992,0.3550534,0.23187631413487586,0,A climber hanging from an ice pick in the side of a frozen waterfall .,a man climbing up a snowy mountain
+0.7578937836376027,0.5,0.6792401,0.06487448,-0.2229347,0.2699691,1.260893700462022,0,A man is sitting on the sidewalk by a tree .,a bird is sitting on the sidewalk next to a tree
+0.0,0.0,-0.03347368,0.0002824445,-0.9984604,0.13164017,-0.8764972980305752,1,A big black dog with fluffy fur runs in the surf of a rocky shore .,two girls jumping in the air
+0.051069630522932,0.14285714285714285,0.17739466,0.0008491733,-0.846953,0.24448907,-0.2826857085038453,1,A black dog finishes running down a blue and orange ramp .,a dog swimming in the water with a stick in its mouth
+0.23426083008332657,0.3333333333333333,0.6238847,0.001728228,-0.022793729,0.32297033,0.5880872939761355,0,A man in a uniform stands next to a girl with purple hair holding a cup .,a man in a military uniform standing next to a woman
+0.6702403521238847,0.6666666666666666,0.78793013,0.03549117,0.029742226,0.3136761,1.3268507374954521,0,A black dog is running across the grass carrying something in its mouth .,a black dog running in the grass
+0.0,0.0,-0.039383616,0.000608031,-0.8878242,0.3174082,-0.3213343913838467,0,A dark haired man in his twenties drinks a green liquid from a plastic mug .,a group of people standing around a table
+0.387504599427722,0.25,0.6071857,0.8835858,0.8595519,0.28042954,2.082213460281669,0,men are standing beside a stonesign,two men standing in front of a monument
+0.12437230789386547,0.14285714285714285,0.5582645,0.0020618343,-0.049833618,0.39829636,0.6147978992070238,0,A medium brown dog is jumping over a short brick wall surrounding some dirt .,a dog jumping in the air over a flower bed
+0.2845880059072591,0.3333333333333333,0.25212896,0.0029433772,7.2969124e-07,0.29275483,0.235792245617726,0,one large brown dog running alongside a black and white dog .,a dog running through the grass in a field
+0.14390171308243555,0.25,0.49963883,0.0034086688,-0.013035592,0.3111962,0.3280569036014927,0,"A dog in midair catching a ring , while another dog watches .",a dog jumping in the air
+0.0,0.0,-0.034184847,0.00032894145,-0.99778986,0.16731158,-0.7695458079859814,1,A person in uniform is standing in front of a toll bridge .,a group of young men playing a game of soccer
+0.30699551140626397,0.125,0.5904579,0.089038014,-0.04077618,0.35668242,0.8970431230897834,0,A male topless rock climber is climbing a rock face whilst attached to a safety harness .,a man on a rock climbing on a rope
+0.0,0.0,-0.11193137,0.00029995342,-0.99816656,0.14409207,-0.9082986111924252,1,A group of kids in red and white playing soccer .,a man in a tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri
+0.0,0.0,0.22879799,0.0003078543,-0.99261445,0.1954857,-0.45219378873558846,1,a boy in a white t-shirt is playing on a swing that is attached to a tree .,a man sitting at a table in a park
+0.4533431820621842,0.5,0.7199808,0.0061297696,0.004394351,0.32427236,0.9689102758922739,0,A brown haired little girl is jumping through squirts of water .,a little girl jumping in the water fountain
+0.0,0.0,-0.030673541,0.00050697697,-0.99598414,0.16735232,-0.7660287539646229,1,Four women wearing energizer bunny ears point to an attraction .,a dog playing in the snow with a ball
+0.4927459640404712,0.3333333333333333,0.7541008,0.8294013,0.82721823,0.28691843,2.2800899410072173,0,A small white dog sits in a field,a small white and brown dog sitting in the grass
+0.32279507462371015,0.2,0.7364509,0.82280153,0.8089161,0.2575106,1.944188943563033,0,A football game is played .,a group of people playing football on a field
+0.0,0.0,0.023082845,0.00043324495,-0.99845827,0.10062515,-0.9197265948340496,1,A man in bright shorts hits a volleyball in the sand .,a woman holding a small child in her lap
+0.0,0.0,0.27553347,0.00027315918,-0.99616826,0.312586,-0.058026359899362,0,A little boy and a little girl are lying on a black bench surrounded by adults .,a group of people sitting on couches in an art gallery
+0.0,0.0,-0.011186667,0.00041180957,-0.9984568,0.14331412,-0.8214023481294712,1,A woman holding and posing an infant dressed in a hawaiin shirt on a skateboard .,a dog playing with a tennis ball in the grass
+0.2333110674336908,0.6666666666666666,0.5653585,0.008283477,0.0034738192,0.34359908,0.6079738380810301,0,A brown dog jumps high in the grass .,a dog running through a field of tall grass
+0.0,0.0,0.12642783,0.00026121567,-0.9982986,0.1295548,-0.7414636383936009,1,A brown and white dog has caught a yellow ball in a grassy field surrounded by trees .,a person jumping a horse over an obstacle
+0.4043037207566449,0.5,0.5579988,0.0020213705,-0.0012889013,0.33155853,0.7772340880305495,0,a brown dog retrieves a stick in a rocky river,a dog running through the water in a river
+0.10007167644238,0.0,0.29042965,0.0021597748,-0.9868199,0.30972022,0.07965900490402869,0,A little baby plays croquet .,a little boy playing with a baseball bat in front of a truck
+0.0,0.0,-0.02151952,0.0003575194,-0.9984847,0.15479425,-0.7960270489737591,1,Four children hold hands and jump into a pool .,a black dog running in the grass
+0.0,0.0,0.0006786671,0.0016284611,-0.81305176,0.17379728,-0.7170613254592022,1,A disabled athlete is competing with his sponsored gear along a street lined with spectators .,a little girl jumping in the water fountain
+0.0,0.0,0.025504146,0.00050483074,-0.9982268,0.12029798,-0.8581806565806469,1,A big dog and a little dog stand near each other near the water .,a group of young women posing for a picture
+0.16311530895300835,0.25,0.29730642,0.021533655,-0.8873434,0.25083867,0.021821225265586983,1,A group of adults are walking .,a group of people standing in a field
+0.0,0.0,0.60525227,0.038442098,-0.45689014,0.33235717,0.35526626508829984,0,A downhill slalom skier leaning through a turn .,a person skiing down a hill on ski equipment
+0.0,0.0,0.11746464,0.00029138871,-0.9966496,0.1918258,-0.561669334320744,1,A man at a skate park doing a stunt .,a dog running in the grass with trees in the background
+0.0,0.0,0.014746308,0.00023148008,-0.99365395,0.17715567,-0.696782037167271,1,a man wears a red bandanna,two dogs looking through a fence at the camera
+0.07088524708515245,0.1,0.40164518,0.008678449,-0.19784142,0.29707938,0.11256852396378776,0,A crowd of people with a lady with a bright orange shirt and another lady in black have their backs to the camera .,a group of people standing around a table
+0.2238120680514417,0.2,0.4279819,0.003765563,-0.17019738,0.3230511,0.4048927120060954,0,A brown and white dog standing next to a smaller brown and white dog in front of a fence .,a dog and a dog playing in the sand
+0.0,0.0,-0.01969508,0.00039510138,-0.9981025,0.14221694,-0.8322576950475773,1,A tent is being set up on the ice .,a group of people watching a street performer
+0.0,0.0,0.1715951,0.0003538172,-0.9984989,0.17513494,-0.5640180851504406,1,A brown dog walks through snow .,a little girl standing in the middle of a puddle
+0.0,0.0,0.09846836,0.00041832842,-0.9939838,0.16162823,-0.6692626769826016,1,A bicyclist performing a trick in midair .,a woman with a scarf around her head
+0.3685173185440225,0.75,0.7879867,0.0022278535,-0.6521508,0.3340214,0.941785849874808,0,A woman in a blue shirt runs through a field of dry grass .,a woman running through a field of tall grass
+0.5764927323833912,0.4,0.64126986,0.021687487,0.001446493,0.2975936,1.0043697020011373,0,A man surfing a small wave and another man on a surfboard paddling toward it .,a man riding a wave on top of a surfboard
+0.09210167317854358,0.2,0.3381375,0.0021147646,-0.2873242,0.32093692,0.145203829150143,0,A man wearing a orange vest is canoeing in the blue water .,two people kaying in the water near trees
+0.0,0.0,0.04232764,0.0015310221,-0.94711035,0.11893998,-0.8457280839964947,1,A group of people standing in front of a setting sun .,a young boy in a green and red shirt
+0.0,0.0,0.07053945,0.00025136216,-0.9985109,0.13821495,-0.7647856320426067,1,A boy makes a jump with a dirt bike with the sun setting behind him .,a bird is sitting on the sidewalk next to a tree
+0.0,0.0,0.21213782,0.0056436616,-0.964878,0.22343123,-0.3740005972966751,1,A blue plane does loops as it heads down to earth .,a group of people flying kites in a field
+0.42783030813862977,0.5,0.7606964,0.23878016,0.23076709,0.28961724,1.2466437807638595,0,A man does technical rock climbing .,a man climbing on a rock with a rope
+0.0,0.0,0.10328983,0.00043671252,-0.998473,0.13046184,-0.7588978926822743,1,A small white dog sits in a field,a woman in a gray hoodie walking down the street
+0.0,0.0,-0.11738521,0.00032615196,-0.99858296,0.23686561,-0.6334818261847099,1,Three boys all wearing green shirts are climbing on a slide .,a person is walking in a field with a kite
+0.39074313879611966,0.42857142857142855,0.6413804,0.05616307,0.005979851,0.30990642,0.8563431313439205,0,"A man is standing at edge of a pond , with two dogs and is throwing a branch is water .",a man throwing a bird at a dog by the water
+0.2628609455920132,0.0,0.6892685,0.26144686,0.24357142,0.28329712,0.9869786432005234,0,A bicyclist doing a jump .,a person on a bike doing a trick
+0.0,0.25,0.1664195,0.00028930174,-0.9829521,0.19415665,-0.5113720516845783,1,A small white dog sits in a field,a man walking two dogs down a street
+0.15898687110155657,0.2,0.33262682,0.0011087789,-0.98550653,0.2617517,0.04726369435837449,0,Four people stand in front of trees .,a group of people walking through a park
+0.0,0.0,-0.023038201,0.00026789214,-0.99843585,0.15268618,-0.8038688595578274,1,a blond girl in a pink bathing suit running through the sprinklers,a man holding a football on top of a field
+0.0,0.0,-0.014144879,0.00020931804,-0.9917183,0.20801754,-0.6293483670041164,1,"A blond woman is throwing a stick for her orange dog , who is leaping to get it .",a group of people walking down a street
+0.10923899679899961,0.3333333333333333,0.3549809,0.00049310236,-0.9921147,0.18801066,-0.22087999694752805,1,A girl is peeking in a window .,a little girl sitting on a purple slide
+0.0,0.0,0.03542015,0.0005897434,-0.99819165,0.1379165,-0.7961788023993572,1,A dog carries an orange toy in its mouth .,a woman hitting a tennis ball with a racket
+0.2773991020281795,0.4,0.7902796,0.06925389,0.066161625,0.30156708,0.8368529015290755,0,A bicyclist does tricks on a lime green bike .,a man doing a trick on a green bike
+0.23421661552692455,0.16666666666666666,0.5301386,0.0003444412,-0.9967861,0.31309962,0.4731541774569639,0,A little girl dances in a room with balloons on the floor .,a little girl is jumping in the air
+0.29456516789343345,0.25,0.5634403,0.40770704,0.13237086,0.26965243,1.1143181335469454,0,A man is climbing up a wall,a man climbing on a rock face to face
+0.0,0.0,-0.061116308,0.00020884625,-0.9978904,0.13492027,-0.89116801276656,1,A jockey in yellow and a jockey in blue are racing their horses down a grassy raceway .,a little girl standing in front of a pile of watermelons
+0.0,0.0,0.079080015,0.00021973571,-0.99822044,0.19941524,-0.5728456298992237,1,A girl in an orange shirt lights candles .,a dog is sitting on the floor in a room
+0.0,0.0,0.06135235,0.00033437903,-0.9674039,0.17298391,-0.6679870928809246,1,a blond girl in a pink bathing suit running through the sprinklers,two dogs playing with a toy in the grass
+0.0,0.0,0.27623677,0.0052510845,-0.61803126,0.3495837,0.06221340455261859,0,A group of girls ride an ATV .,three children on a quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+0.0,0.0,0.02233953,0.00046856148,-0.9781061,0.21561815,-0.5737671847626766,1,A basketball player is about to make a lay-up .,a group of children sitting on a wooden floor
+0.0,0.0,0.60064554,0.020686425,-0.040266264,0.35400206,0.387474675179998,0,a person riding a snowboard with a pink bottom,a snowboarder does a trick in the air
+0.20172560452222926,0.2857142857142857,0.45957184,0.002517786,-0.0012827106,0.36150917,0.5179772949407846,0,A brown and black dog fetching a tennis ball in a lake .,a dog swimming in the water with a ball in its mouth
+0.670654728974658,0.5,0.74002707,0.012860923,0.005546769,0.3506912,1.3596974210894803,0,Four women wearing energizer bunny ears point to an attraction .,a group of women wearing bunny ears
+0.0,0.0,0.08335481,0.0009766462,-0.9973799,0.22913353,-0.47826936423631516,1,A boy hits a baseball with the bat .,a group of people playing soccer on a dirt field
+0.0,0.0,0.31584543,0.0004158197,-0.9982133,0.1209477,-0.5997058102101287,1,A dog leaps through a snowy field .,a person jumping off of a tree in a park
+0.20738946871038277,0.4,0.7107316,0.0038106167,-0.00045014638,0.35508096,0.7300999179054148,0,A boy in a brown jacket holds a large chunk of snow .,a little boy holding a snowball in the snow
+0.0,0.0,0.02159889,0.00037442378,-0.9984809,0.19108927,-0.6484990413472256,1,A long haired mail is swinging his wet hair around in the ocean .,a little girl jumping on a bed
+0.8756136037424949,1.0,0.7531822,0.029363846,0.022266723,0.36924154,1.7205558520760762,0,A brown and white dog is running through the snow .,a white dog running in the snow
+0.0,0.0,-0.018055439,0.0003800585,-0.9984683,0.08078974,-1.015958345977982,1,A man in a red coat skiing .,a group of people playing football on a field
+0.0,0.0,0.007217624,0.0003333439,-0.9985184,0.15860021,-0.7591926227495274,1,A bird swooping over water .,a family sitting on a couch in front of a christmas tree
+0.0,0.25,0.20318216,0.0017788167,-0.9116348,0.35732892,0.015313521476070013,0,A man performing martial arts kicks his opponent .,two men in a black and white uniform
+0.2238900826685153,0.25,0.56353897,0.023714222,0.022134427,0.31712058,0.5394806526239486,0,A white and brown dog appears to be walking on the water .,a dog walking on the beach at sunset
+0.12048216193096156,0.25,0.5955236,0.0070383158,0.0010540336,0.3110365,0.38781425787718543,0,A brown a dog and a black dog in the edge of the ocean with a wave under them boats are on the water in the background .,two dogs playing in the water at the beach
+0.0,0.0,0.08802107,0.00026860368,-0.9981469,0.17904411,-0.6262553106233677,1,A boy wearing skates sliding down concrete railing of steps near a pole .,two children playing in a swimming pool
+0.08366927471193004,0.125,0.13604943,0.002977625,-0.10756305,0.30823094,-0.08128857386362937,0,A boy with a Mohawk is wearing a navy blue sweatshirt in a crowd of people .,a group of people walking down the street
+0.05637671482268975,0.25,0.32558984,0.0037672983,-0.2648626,0.23234236,-0.17663160307480152,1,A black dog soaked in liquid jumping to the grass .,a dog running across a lush green field
+0.0,0.0,0.50965714,0.014656667,-0.09225015,0.27625746,0.0629071821287075,0,A lonely skier enjoys the slopes on a beautiful day .,a person skiing down a snowy mountain
+0.4562691294637818,0.2,0.59026617,0.9093607,0.8938139,0.3069765,2.2786724026830227,0,A child is jumping on an inflatable bouncer .,a man and a little girl jumping on a bounce bouncer
+0.0,0.0,0.003910834,0.00031203523,-0.99754536,0.18985027,-0.6679710443303188,1,A child steps up on a playground toy as arms reach for her .,a group of people walking down a street
+0.0,0.14285714285714285,0.32331795,0.03130679,-0.08122188,0.31119728,0.03063136756567153,0,A boy takes a jump on his skateboard while another boy with a skateboard watches .,a group of young boys playing on a street corner
+0.04993663394159256,0.125,0.08252052,0.001246647,-0.8262193,0.21297431,-0.46235641265757954,1,A security man guards the door as another one brings his items off .,a man sitting on a bench in front of a building
+0.0,0.14285714285714285,-0.15913817,0.00040534616,-0.97668576,0.13841492,-0.9669670383617481,1,Men in blue uniforms holding little girl with bandaged face and stuffed animal,a man walking past a building with boarded windows
+0.0,0.6666666666666666,0.51943254,0.5325998,0.4706963,0.2994951,0.9861064855769077,0,"A group of women in matching uniforms , one of which is speaking .",a woman in a blue and white uniform
+0.2618652137848946,0.5,0.67893255,0.023530465,-0.09027603,0.310291,0.6699682005465482,0,A man at the top of a mountain with a beautiful view in the background,a man standing on top of a snow covered mountain
+0.44606531053488546,0.25,0.3314466,0.0024488114,-0.8399675,0.30903673,0.5640675499759468,0,a boy jumps into the pool .,a group of people playing in a pool
+0.0,0.0,-0.11478926,0.0004701793,-0.99834657,0.17276931,-0.8241216833874783,1,A girl is peeking in a window .,a group of horses racing down a race track
+0.0,0.25,0.31591266,0.00059411983,-0.99741,0.3111546,-0.026121669000407133,0,A young boy and girl are playing in a tunnel .,two little girls sitting in a yellow and blue tent
+0.0,0.0,0.01531072,0.00036702177,-0.98958826,0.08966927,-0.9597233082339367,1,A basketball player in blue is attempting to block a player in white during a game .,a man standing on a bridge looking at the city
+0.1977876384520686,0.16666666666666666,0.4671929,0.020058442,-0.036843684,0.2985864,0.3585634361683523,0,A guy jumps to make a basketball shot .,a group of young men playing a game of basketball
+0.0,0.0,0.30481416,0.009728877,-0.80037946,0.28108993,-0.11164527015613523,0,A man stands on a surfboard in the ocean with a stick in his hand .,stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand up paddle stand
+0.0,0.0,-0.115675956,0.0002776645,-0.9983627,0.1399187,-0.9242226029917797,1,A woman holding a baby and making faces at it .,two dogs running in the grass near a fence
+0.3838021988860732,0.25,0.3781836,0.000999353,-0.94087034,0.26606658,0.3925864898182937,0,a man in a green shirt and cap puts his hands on a table as he stands next to man wearing headphones around his neck .,a man wearing a baseball cap
+0.0,0.0,0.034819067,0.0005506814,-0.9982686,0.17888126,-0.6733167688533863,1,Two dogs kick up dirt while running down a hill .,a man riding a skateboard down the side of a ramp
+0.2050386095582738,0.4,0.65800524,0.0018903222,-0.009805212,0.3465671,0.6516443044551623,0,A man walking a small white and a big white dog on leashes .,a man walking two dogs down a sidewalk
+0.5738983822892849,0.5,0.64267945,0.003814895,-0.0003370049,0.32527816,1.0565356709805123,0,A man walks toward a policeman standing in a crosswalk on a city street .,a person walking across a crosswalk on a city street
+0.0,0.0,0.12915021,0.00031864338,-0.9983789,0.25113413,-0.3725550300613245,1,A barefoot young boy glances at the camera while swinging in a park .,a little girl is sitting on a red slide
+0.0427911146181162,0.125,0.025765475,0.00028408115,-0.9984965,0.14209579,-0.7369948449668828,1,A man walks toward a policeman standing in a crosswalk on a city street .,a man sitting on the floor with a bunch of cats
+0.0,0.0,0.14268553,0.0004280069,-0.9979304,0.19816485,-0.52004705324622,1,A baseball is being thrown at a volleyball net .,a man riding a wave on top of a surfboard
+0.0,0.0,0.008288455,0.00063605583,-0.99808836,0.1429472,-0.8049265514299473,1,A dog in a grass field runs with a ball in its mouth .,a man pushing a child in a shopping cart
+0.4320690906152245,0.2,0.80471265,0.86397624,0.85749316,0.3599825,2.522532086252144,0,A man in a red coat skiing .,a man in a red jacket skiing down a snowy slope
+0.0,0.0,-0.1052454,0.000326261,-0.998151,0.18197823,-0.7881663362667164,1,A little boy and a little girl are lying on a black bench surrounded by adults .,a man holding a flag
+0.015312479783141271,0.25,0.50103164,0.0056849015,-0.011474224,0.29705793,0.12324447404634525,0,Two dogs are playing together and fighting over a toy .,a group of dogs playing with a fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr
+0.0,0.0,-0.05873557,0.00022823518,-0.998322,0.12927921,-0.906032532005032,1,A monk in a red shawl looks at the camera,two children playing in a yard with a ball
+0.17915640086452825,0.4,0.42525455,0.0017451611,-0.20811523,0.38530946,0.5287724028902057,0,A man and a woman wearing masks embrace at an outdoor festival .,a man and a woman are standing under a tree
+0.0,0.0,0.115709126,0.00040075154,-0.9912169,0.22633895,-0.45902927175017205,1,A girl is jumping in the air while holding an orange and white guitar .,two people in the water
+0.36140478011956767,0.6,0.65301186,0.0031098993,-0.0057836426,0.35191405,0.8685848455778236,0,a boy in a grey hat is carrying a soccer ball by a reddish colored wall .,a little boy playing with a soccer ball
+0.0,0.0,0.06978563,0.0002329858,-0.9966185,0.16997172,-0.6697753439828953,1,A man holding a bottle wearing tan pants talking to security officers in front of a large poster .,a plane flying in the sky
+0.0,0.0,0.11165785,0.0005454064,-0.9208455,0.28414506,-0.2881622011944851,0,A boy wears a foam hat to show support for his team at a game .,a group of people sitting on the ground
+0.0,0.0,0.13646193,0.0007916487,-0.9973417,0.1511066,-0.666777103690823,1,A little old lady sitting next to an advertisement .,a man in a military uniform standing next to a woman
+0.0,0.0,-0.034352988,0.0013461796,-0.7454595,0.17762566,-0.7369518797084889,1,A closeup of a girl holding a heart necklace and looking at it .,a group of people walking through a park
+0.0,0.0,-0.13361394,0.00025658825,-0.99820894,0.11894681,-1.0033179740593037,1,A boy in a brown jacket holds a large chunk of snow .,a woman and her dog playing in the grass
+0.18536573695867567,0.2,0.4326583,0.011255426,-0.104890384,0.30371422,0.31298857044327166,0,A male teenager rides his skateboard onto a large rock .,a man riding a skateboard in a tunnel
+0.0,0.0,0.29195726,0.0006978288,-0.99514264,0.19456424,-0.39850210539849606,1,A basketball player concentrating on keeping the ball from other players .,a young boy swinging a bat at a baseball game
+0.0,0.0,0.20328955,0.000367399,-0.9974257,0.15939283,-0.5834206338212093,1,A group of kids in red and white playing soccer .,a football player is running with the ball
+0.0,0.0,0.078616,0.00022680179,-0.9971954,0.1483652,-0.7270958046600422,1,a boy in an orange jersey is about to pitch a baseball .,a dog in the water with its tongue out
+0.0,0.14285714285714285,0.0929804,0.0021513544,-0.9457075,0.21444112,-0.5121240089819035,1,A group of men stand outside a glass and steel building .,a man in a black t - shirt
+0.08348336164273026,0.14285714285714285,0.24691495,0.00030611843,-0.9891856,0.23027891,-0.22280809662794743,1,a boy in a white t-shirt is playing on a swing that is attached to a tree .,a little boy holding an umbrella in the rain
+0.0,0.0,0.25495136,0.00034146348,-0.99764055,0.18938577,-0.4474029685542187,1,A brown dog is running on grass .,a little girl playing in the yard of a house
+0.46206742977796067,0.4,0.6458163,0.047789626,-0.09768251,0.33555532,1.0166208364864717,0,A man holding girl at top of a slide,a man and a small child on a slide
+0.0,0.0,0.38136593,0.044199184,0.009983346,0.2603943,-0.05013955665605274,0,A biker in the woods .,a person jumping on a bike over rocks
+0.0,0.0,-0.059254557,0.00040717155,-0.9984527,0.21198775,-0.6569375912830433,1,Three boys all wearing green shirts are climbing on a slide .,a man laying in the grass
+0.802352683841401,0.4,0.782603,0.6454694,0.48114827,0.34867302,2.593931106167747,0,A group of cars parked on a hill,a group of cars parked on top of a mountain
+0.1786016433218124,0.2,0.4433108,0.0052746134,4.4877175e-05,0.31197777,0.32876536841531595,0,A crowd of children and some are wearing green costumes .,a group of children sitting on a stage
+0.15944709188213965,0.0,0.40441823,0.0022895944,-0.681439,0.29850602,0.22401882766419892,0,A girl in green is running behind a boy in red in a sports arena whilst a girl in pink is running in the background .,a group of children running in a street
+0.0782464572316474,0.16666666666666666,0.46647063,0.0062186993,-0.11922559,0.31322438,0.2240887645176517,0,A black and white dog in a dog-shirt carrying a long piece of wood .,a small dog wearing a sweater on a stick
+0.0,0.0,0.07634731,0.00020902653,-0.99815845,0.12586273,-0.7969468604013523,1,A basketball player in a blue jersey holds the ball high .,a group of people sitting on top of a snow covered field
+0.0,0.25,0.42639694,0.0010441445,-0.99329454,0.29814363,0.03306858286408576,0,a cat sits alone in dry grass .,a group of cats laying on the ground
+0.06266157611156685,0.14285714285714285,0.19853857,0.0017381761,-0.7222181,0.19592789,-0.39382793115201253,1,a man in a red shirt is laying on the grass reaching out to another person .,a man and a woman sitting in the back of a jeep
+0.0,0.0,0.08574502,0.00031062766,-0.9938994,0.13270499,-0.7678528423592648,1,A band is playing music underneath a white canopy .,a little girl in a purple dress standing next to a wall
+0.0,0.0,-0.023391958,0.00024656768,-0.99840933,0.18674423,-0.7015742878601154,1,A male tennis player runs for a shot .,two dogs playing in the water at the beach
+0.41106933908588883,0.4,0.6997107,0.0019770076,-0.074381374,0.3517328,0.9720293986943267,0,"A man in a yellow shirt wears a gold , sun-shaped mask .",a man in a yellow shirt
+0.14456396378245406,0.25,0.5210874,0.004924242,0.0011048145,0.29418817,0.29909171540916135,0,The two gray dogs are trying to get a red object .,two dogs playing with a toy in the grass
+0.0,0.0,0.55633146,0.4835807,0.031066,0.2828832,0.8887337525203625,0,A skier flies through the air .,a person riding skis down a snowy slope
+0.0,0.0,0.4357192,0.5174397,0.50633156,0.34026963,1.0102685545399586,0,A child steps up on a playground toy as arms reach for her .,a little girl is playing on a swing set
+0.0,0.0,-0.0295507,0.00025096838,-0.99847996,0.10315426,-0.9589298064992031,1,The three children are holding umbrellas and watching the ceremony in the rain .,a dog running through the snow covered ground
+0.21726592528145278,0.4,0.5623288,0.04707473,-0.4758761,0.28438035,0.4692201409868948,0,Two hikers stand at the top of a snowy mountain .,a man standing on top of a snow covered mountain
+0.12143365902359674,0.25,0.2324847,0.00077798445,-0.9953537,0.19801918,-0.2826879664839357,1,A group of people mill around while a man in a fish costume descends a staircase .,a group of people walking down a snow covered trail
+0.05253689096015816,0.2,0.18151927,0.00036615384,-0.998562,0.14885975,-0.5661217312001178,1,A bearded man reads while sitting on a wall in a park .,a man is surfing on a wave in the ocean
+0.0,0.0,-0.002777934,0.00038622328,-0.9985212,0.17336677,-0.7234399165198406,1,A guy is grinding a rail over a tree on his snowboard .,a group of people walking down a street holding umbrellas
+0.0,0.0,0.1420608,0.0017930698,-0.9765202,0.13052596,-0.7222194965169033,1,A boy is standing at the edge of a wave with the sun setting or rising in the background .,a group of kids playing baseball on a field
+0.4725403238945639,0.5,0.574343,0.013409766,0.0026613595,0.31001854,0.83403274415055,0,a boy in white plays baseball .,a young boy in a baseball uniform standing on a baseball field
+0.0,0.2,0.19148761,0.006782041,-0.74964225,0.16136234,-0.5774586829528412,1,A man surfing a small wave and another man on a surfboard paddling toward it .,a group of men in tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tu
+0.0,0.0,0.13266069,0.00055567315,-0.9415278,0.31596553,-0.173680342285355,0,A boy pushing another boy up a pole .,a group of children playing in the street
+0.0,0.0,0.07360494,0.0006155507,-0.96220535,0.123310834,-0.8063990171238979,1,A basketball player in blue is attempting to block a player in white during a game .,a group of people sitting on the ground
+0.06267334996989027,0.2,0.2707034,0.00031535566,-0.9985829,0.17007701,-0.41024663521575955,1,A dog carries a newspaper through a kitchen .,a black dog is playing in the water fountain
+0.07564801520739521,0.14285714285714285,0.45328832,0.001963967,-0.994969,0.29045945,0.13351299831167318,0,A man and a boy behind the wheel of a car .,a man and a woman sitting in the back of a jeep
+0.0,0.25,0.571112,0.007904893,-0.0037775468,0.35124183,0.3322075945153633,0,a brown dog and a white dog are running across a stony hillock .,two dogs playing on a rocky hill
+0.0,0.0,-0.027074566,0.00031213337,-0.99854285,0.12929171,-0.8778697098776898,1,A dirt bike rider catches some air going off a large hill,a black and white dog sitting on a tree branch
+0.0,0.0,-0.18778402,0.00046277337,-0.99812305,0.1895332,-0.8381391684696278,1,A boy jumps off a short wall with his arms out .,a woman holding a dog on a leash
+0.10386449826922768,0.16666666666666666,0.35443237,0.0070193056,-0.011982014,0.32121405,0.18373058380401072,0,A group of men in an art gallery .,a group of people sitting in a room
+0.01655655637644261,0.08333333333333333,0.2597313,0.0011616244,-0.9758146,0.34965104,0.06267847643400232,0,a man carves an ice block with a chainsaw .,a man uses a snow blower to clear the snow from the sidewalk during a snowstorm in downtown on january 26 2015 in new york new
+0.0,0.0,-0.1240911,0.00034523496,-0.9984181,0.12477814,-0.9771811287090382,1,A white dog chasing a black dog across the grass .,a baby wearing a santa hat on top of a bed
+0.0,0.0,-0.014741804,0.0002576222,-0.9985289,0.1044637,-0.9418815667912563,1,The three children are holding umbrellas and watching the ceremony in the rain .,a snowboarder does a trick in the air
+0.0,0.0,-0.00019444898,0.00036155392,-0.99831504,0.17159918,-0.7265234063551029,1,a man in a red shirt is laying on the grass reaching out to another person .,a woman sitting at a table with a baby
+0.0,0.0,-0.061103806,0.00045881205,-0.99843043,0.09771912,-1.002863995282372,1,A baby is held by an adult and is sitting on a table at a coffee shop .,a group of dogs playing in a fountain
+0.0,0.0,0.13375364,0.0002463797,-0.99845934,0.28789473,-0.2578165750190815,0,Three boys all wearing green shirts are climbing on a slide .,a group of people riding on the back of a bus
+0.3485857440723564,0.4,0.45305645,0.029512549,-0.3465225,0.252466,0.41850141158568643,0,A girl leaning against a woman 's shoulder while sitting on a bench .,a woman and a young girl sitting at a table
+0.0,0.0,0.20542055,0.0007096723,-0.9489545,0.32193238,-0.09112696304770318,0,A man in a hat is displaying pictures next to a skier in a blue hat .,a group of people riding ski boards through the woods
+0.1446316297565406,0.25,0.22746465,0.0009357862,-0.60664237,0.23673557,-0.1400335213975035,1,A large white dog growling at a large black dog .,a dog laying on a white rug in a living room
+0.0,0.0,-0.19310445,0.0007065156,-0.99794483,0.10991177,-1.0824032495901188,1,A man stands on a surfboard in the ocean with a stick in his hand .,two little girls sitting in the back of a car
+0.0,0.0,0.20738316,0.00042394394,-0.99831975,0.14143465,-0.6338309417650303,1,A few dogs swimming in a lake .,two people on a boat in the water
+0.09644682437430435,0.14285714285714285,0.5014483,0.010942749,-0.06975558,0.3038076,0.2579896816337386,0,A boy in a hat stands barefoot at the edge of a body of water .,a person is standing in the water near rocks
+0.0,0.0,0.08694334,0.00032427665,-0.9985378,0.15721262,-0.6929116766140064,1,A kid is pushing a shopping cart behind an adult inside a consumer market .,a dog running in the grass near a white picket fence
+0.0,0.0,0.6393583,0.5447934,0.540782,0.34905964,1.2613776479676166,0,A bicyclist performing a trick in midair .,a man flying through the air while riding a bike
+0.28217329360328186,0.25,0.5859015,0.0054102447,0.00416837,0.31981546,0.613284612714501,0,A big tan dog wearing a muzzle running in green grass .,a dog running across a lush green field
+0.1937878732380089,0.25,0.6370248,0.10640902,-0.52146906,0.30826354,0.6734581082486397,0,a man wears a red bandanna,a man wearing a red and white head scarf
+0.5605775613574444,0.6666666666666666,0.77071786,0.003850992,0.001619861,0.32095465,1.1394356255768363,0,Two dark haired girls are on a tire swing .,two girls on a swing
+0.22254486711283802,0.3333333333333333,0.5505793,0.0020493423,-0.9294038,0.33306348,0.5389980760022887,0,A child swings on his stomach on a tire swing amidst trees .,a tire hanging from a tree in the woods
+0.4911505635732473,0.4,0.73858416,0.10082817,-0.48922205,0.2779005,1.049155983003618,0,A group of football players are playing football .,a group of people watching a football game
+0.0,0.0,-0.11831049,0.0003504265,-0.9983675,0.1623736,-0.8587596859023174,1,Dirt bikers on a trail .,a dog swimming in the water with a ball in its mouth
+0.34938984261326245,0.4,0.6826515,0.006218967,-0.003152972,0.33582985,0.835764661219569,0,A man holds a stick up for a dog to catch while another dog looks on at the beach .,a person and a dog on a beach
+0.10027987653594281,0.16666666666666666,0.18138814,0.00068130344,-0.99572337,0.27083105,-0.13607565063586521,1,A man holding girl at top of a slide,a man jumping into a swimming pool
+0.19512005436723676,0.18181818181818182,0.32809404,0.005741361,-0.12595604,0.37863138,0.4500226938325147,0,A man holding a bottle wearing tan pants talking to security officers in front of a large poster .,a group of police officers standing in front of a building
+0.0,0.0,-0.05414785,0.00033693548,-0.9985056,0.074810036,-1.06595560118409,1,A man walks toward a policeman standing in a crosswalk on a city street .,two young girls climbing up a tree
+0.0,0.0,-0.026097378,0.00046460342,-0.99839693,0.15524457,-0.7985421042129597,1,A girl in a flower dress is running on sand .,a man in a white shirt
+0.051032151219867976,0.16666666666666666,0.5752872,0.002359114,-0.011618887,0.33227414,0.33602615580229966,0,A big brown dog floats in a canoe on the river at sunset .,a dog is sitting in a boat on the water
+0.5725107792195787,0.75,0.6421553,0.0009261838,-0.84461695,0.3484366,1.119351967804004,0,A girl in a purple dress smiling as she climbs an indoor rock wall .,a little girl in a purple dress standing next to a wall
+0.0,0.0,-0.03123159,0.00032071074,-0.9985351,0.14432724,-0.8362173582598766,1,a brown and a black dog play in a field,a group of people walking down a sidewalk
+0.0,0.0,0.3362492,0.00056968426,-0.9977605,0.24032167,-0.22165600538106767,1,A brown dog is jumping through a field .,a man flying through the air with a parachute
+0.0,0.0,0.12763572,0.00046687256,-0.9983278,0.13819925,-0.7140083904549679,1,A flautist plays the flute in a marching band,a person skiing down a snowy mountain
+0.0,0.0,0.12228231,0.00031211192,-0.9983255,0.115551926,-0.7872462789699635,1,A man holding girl at top of a slide,a group of dancers in a dance studio
+0.0,0.0,0.06506088,0.0012794848,-0.33600652,0.2564782,-0.4115377362057766,1,An elderly woman is wearing a pink striped shirt .,a group of people standing in a large room
+0.04136142001347302,0.2,0.48270106,0.0037599925,-0.9717107,0.30933458,0.17475980235489239,0,A man riding a skateboard jumps up on a wood ledge .,a young man skateboarding on a concrete bridge
+0.0,0.0,-0.014851106,0.00032920437,-0.9985522,0.15018843,-0.8040590505287251,1,A city street is busy with people as one person walks across the crosswalk .,a man standing on top of a snow covered mountain
+0.0,0.0,0.060397804,0.0013131489,-0.9829336,0.21415299,-0.543162114469727,1,The children play in the pool .,a girl swinging on a swing
+0.0,0.0,0.058040753,0.00035430153,-0.9985694,0.15624979,-0.721314325480183,1,A group of cross-country skiers are skiing down a trail .,a woman sitting on a bench with a small child
+0.34569677721665004,0.3333333333333333,0.6670586,0.0005431787,-0.9961976,0.35515463,0.8661653396405719,0,A man on Rollerblades glides down a park path .,a man riding a skateboard down a path
+0.0797365438295568,0.2,0.31340623,0.0026398366,-0.02199687,0.18527478,-0.3007255329923672,1,A brown and white dog runs across the grass .,a dog with a baseball hat on its head
+0.0,0.0,0.4199883,0.01867264,-0.047624215,0.29926926,0.05953963518289718,0,A man climbs up a rock while others wait for their turns .,two people climbing up a rocky mountain
+0.0,0.0,-0.038206007,0.0026425004,-0.7632983,0.20412143,-0.6583929131910404,1,A crowd of people with a lady with a bright orange shirt and another lady in black have their backs to the camera .,a fountain in the middle of a park
+0.4391355442768761,0.5,0.7285017,0.009389777,-0.0011555338,0.30912554,0.9176420409704444,0,A person on a downhill skateboard .,a person on a skateboard in the middle of a street
+0.3147994470378065,0.14285714285714285,0.5013913,0.005288225,-0.096761785,0.3162588,0.5700686544048957,0,The three field hockey players are all chasing the ball .,a group of young men playing a game of hockey
+0.0,0.0,0.008092985,0.00030190995,-0.99855834,0.15042952,-0.7830943758771023,1,A group of kids in red and white playing soccer .,a dog running through a field of flowers
+0.0,0.0,-0.032411225,0.0022916314,-0.99260485,0.1746645,-0.7426179121419987,1,A dog and two people .,a young boy standing on top of a bed in a room
+0.20985298451708861,0.4,0.56770945,0.2030115,-0.021042138,0.27587157,0.6929584571291624,0,A dog on an obstacle platform and a man .,a man playing with a dog in a park
+0.0,0.0,-0.08461544,0.000569351,-0.99818647,0.1648592,-0.8211253206417164,1,A boy takes a football from another boy .,a woman sitting at a table with a plate of food
+0.10716606308089624,0.4,0.28899366,0.002510743,-0.58810115,0.24361865,-0.11102943088309408,1,A dog goes headfirst into the long grass from the sand .,two dogs running in the grass near a house
+0.0,0.0,0.13258366,0.0006587177,-0.99808407,0.14763883,-0.6808731998488506,1,A man on bicycle riding down a rocky hill .,a couple of people walking down a sidewalk
+0.0,0.0,0.41916367,0.03754697,-0.017878976,0.31475705,0.13626212578413877,0,A baby hangs off an adult 's back while laughing .,a little boy holding a little girl on his back
+0.6413748519982667,0.6,0.7289966,0.006534269,-0.13115516,0.2721564,1.0648878834888902,0,A man in a room with three other people holding a large camera .,a man holding a video camera in a room
+0.09264128346993862,0.2,0.31971428,0.0014974802,-0.012394351,0.34232688,0.19307633618313685,0,An elderly woman is wearing a pink striped shirt .,a woman sitting at a table with a plate of food
+0.0,0.0,-0.0063840486,0.00042443594,-0.9971281,0.16117674,-0.7633029739543995,1,A boy smiles in front of a stony wall in a city .,a man jumping into a swimming pool
+0.033653102151714444,0.16666666666666666,0.14616856,0.00034580755,-0.9867756,0.19963409,-0.46893037028372875,1,A man in sunglasses gets ready to pull a chair out to sit down for his meal .,a man climbing on a cliff in the mountains
+0.0,0.0,0.44594613,0.001503904,-0.35221982,0.33264658,0.15508265093115958,0,A flautist plays the flute in a marching band,a group of people in uniform playing instruments
+0.0,0.0,0.1304207,0.0049478444,-0.31509417,0.19452141,-0.5344997863456806,1,A flag is carried .,a group of people standing on top of a grass covered hill
+0.5622587757658234,0.6666666666666666,0.68282205,0.002354508,-0.00026050443,0.35364443,1.159999387875624,0,A blonde boy is holding a blue umbrella .,a little boy holding an umbrella in the rain
+0.0727576869603012,0.25,0.33871782,0.00042944468,-0.9865486,0.26763996,-0.04279845497360128,1,A boy looks startled as he falls in the sand .,a young boy jumping on a bed in a bedroom
+0.0,0.0,-0.049182132,0.00054804824,-0.9982858,0.1962717,-0.6951679061338505,1,A man is climbing up a wall,two children laying on a couch with a stuffed animal
+0.0965416166713998,0.0,0.089324094,0.00024293522,-0.99834275,0.20411727,-0.42409219522683517,1,A bald man is sitting on a rock next to a woman in a black jacket .,a little boy sitting on the floor in front of a mirror
+0.033520517806165544,0.25,0.4306172,0.014086924,-0.050793447,0.36499327,0.3031049418938961,0,"A brown , black and white dog is on a obstacle course .",a black and white dog playing on a green artificial artificial artificial artificial artificial artificial artificial artificial artificial artificial artificial artificial
+0.0,0.0,0.014170155,0.00053188705,-0.9982969,0.17309074,-0.7090521450326046,1,A man skis on a snowy mountain .,a little boy playing with a baseball bat in front of a truck
+0.0,0.0,0.01383616,0.0004478886,-0.99843603,0.17156838,-0.7140723983928761,1,a little girl running in a field,two dogs playing in the sand at the beach
+0.0,0.0,0.17183462,0.0007009389,-0.90698415,0.17157863,-0.5739581431433758,1,An older lady wearing a Tinkerbell jacket .,a person on a snowboard jumping over a pile of snow
+0.0,0.0,0.22994162,0.0033093768,-0.9717794,0.20118237,-0.4291204358622631,1,People stand in corridor looking from balcony as another person walks dog,two men standing in front of a monument
+0.0,0.0,0.0073991083,0.000308155,-0.9985308,0.13940662,-0.8169177244588932,1,A group of dancers wearing black spandex are dancing in a studio .,two boys playing in the water at the beach
+0.23685302718669118,0.2,0.5970567,0.0016466946,-0.17578664,0.37367368,0.720414482147973,0,A dark-headed boy is eating a large red Popsicle .,a little boy sitting on the floor eating a piece of food
+0.4500395831390537,0.5,0.5335565,0.011519802,-0.67501783,0.35549405,0.9026996199205433,0,A man hands out fliers while wearing a mask .,a man wearing a mask and holding a newspaper
+0.0,0.0,-0.10200949,0.0005295209,-0.9982822,0.13966052,-0.9125088448807797,1,A baby is held by an adult and is sitting on a table at a coffee shop .,a dog running through a field of tall grass
+0.1202191720731251,0.4,0.6563824,0.00912968,-0.0045660213,0.40279347,0.7212132459502407,0,A golden haired dog with wet hair is licking its nose while moving through shallow water .,a dog in the water with its tongue out
+0.0,0.0,0.025705263,0.00054492184,-0.99820364,0.17931211,-0.6800842876717648,1,Four people stand in front of trees .,a little girl running in the grass
+0.0,0.0,0.21196692,0.00027805901,-0.99856114,0.24113372,-0.32954980993496386,1,A dog is running away in the grass,a person walking down a road in the middle of nowhere
+0.054790630819077875,0.16666666666666666,0.14465016,0.00030010927,-0.99829936,0.117244996,-0.6911708488892659,1,A man walking a small white and a big white dog on leashes .,a man doing a trick on a bike
+0.09160094862193552,0.16666666666666666,0.380189,0.0028149493,-0.96170574,0.22956213,-0.09251158676495329,1,A girl leaning against a woman 's shoulder while sitting on a bench .,a little boy holding a little girl on his back
+0.0,0.0,-0.029635906,0.0004453843,-0.9984363,0.20987535,-0.6370585928842625,1,A dog runs by two cows .,a man wearing a helmet
+0.0,0.0,0.4037587,0.5350631,0.5149348,0.26704624,0.790074810834209,0,Two children peek out .,two little girls sitting in the back of a car
+0.30021683684137895,0.16666666666666666,0.51451766,0.00289539,-0.0012732598,0.31449863,0.5535109866894192,0,A bicycler is riding a bike at a racing event .,a person riding a bike on a road
+0.2721186415869328,0.5,0.7303102,0.0319556,-0.4445254,0.32216763,0.778244536992485,0,A boy carries a boogieboard on the beach .,a young boy holding a surfboard on the beach
+0.47902990968589987,0.2,0.38356924,0.0005888591,-0.99567485,0.31085297,0.6554338467206184,0,A girl in a red shirt is rock climbing .,a man on a rock climbing up a steep
+0.0,0.0,-0.02717157,0.00027125326,-0.99845636,0.1330161,-0.8667977820322117,1,Two brown dogs are biting on a black Frisbee .,a group of people in protective gear working on a street
+0.16325392234927222,0.25,0.4174447,0.00030372632,-0.9984694,0.31564966,0.28891095743773876,0,A person jogging on a sidewalk .,a person walking down a road in the middle of nowhere
+0.0,0.0,0.6677055,0.050823793,0.047247745,0.30456048,0.3468917771070996,0,A bmx biker is in midair attempting a trick .,a person jumping a bike in the air
+0.04945890427105888,0.4,0.7095343,0.68071836,0.639177,0.35049197,1.613649591593603,0,A child covered with paint sits amid trays of multicolored paint on a surface thoroughly saturated with paint .,a child painting on a canvas with colorful paints
+0.09861103583067257,0.4,0.80845636,0.5798851,0.490866,0.27969298,1.3872048826872538,0,"A person on what appears to be a surfboard , rides the waves onto shore .",a person surfing on a wave in the ocean
+0.4344560673893991,0.3333333333333333,0.6167034,0.0020958972,-0.020278668,0.34928173,0.9218569827955285,0,A girl in an orange shirt lights candles .,a little girl standing in front of a table with candles
+0.10797072155962091,0.3333333333333333,0.50177956,0.0038635794,-0.27995142,0.3221043,0.31686050066577937,0,A dog catching a Frisbee .,a dog jumping in the air
+0.0,0.0,0.00898501,0.00041743933,-0.9984728,0.19336098,-0.6527332212016186,1,A girl in a flower dress is running on sand .,a man riding a bike down a street
+0.0,0.0,0.15928787,0.0039851638,-0.9704504,0.32220793,-0.12573703333588448,0,A group of men stand outside a glass and steel building .,a couple of people walking down a sidewalk
+0.0,0.0,0.117805414,0.0051311813,-0.9497591,0.15298197,-0.6705417926594814,1,A flag is carried .,a skateboarder doing a trick at a skate park
+0.0,0.0,0.012547191,0.00020149832,-0.9954761,0.34455508,-0.1942768017932972,0,A man in an orange hat pulls a cigarette out of a box .,a group of people walking down a street
+0.180020836966604,0.2,0.4056353,0.0014555184,-0.951252,0.30023837,0.2556982563115173,0,A baseball is being thrown at a volleyball net .,a young boy playing baseball in the backyard
+0.5896860059377236,0.2857142857142857,0.76319456,0.016052892,-0.5717838,0.35274357,1.2863206395093827,0,A baby in a Santa hat holds a Santa figure while laying on a brown sofa .,a baby wearing a santa hat on top of a bed
+0.0,0.0,0.13468629,0.00066531374,-0.9895859,0.18606248,-0.563204824475964,1,A parachute caught on a tree with some people on the ground shining a light at it .,a couple of men standing next to each other men
+0.0,0.0,0.030483903,0.00040840587,-0.9984847,0.15633751,-0.7453219960615238,1,a boy wearing a red shirt on a skateboard jumps up some stairs,a man in a yellow jacket standing next to a truck
+0.0,0.0,0.060929917,0.0002767559,-0.9975479,0.15610352,-0.7193275462076267,1,A dirty jeep is stuck in the mud .,a young girl drinking water from a water fountain
+0.0,0.0,0.07019566,0.00045312583,-0.9977248,0.14683612,-0.7387785981580814,1,A baseball pitcher with Shelton on his shirt throws the ball .,a woman holding a little girl in her arms
+0.4613543131361957,0.6666666666666666,0.7360167,0.010588439,0.008981953,0.3315999,1.022852550067753,0,Two brown dogs are playing in a field .,a couple of dogs running in a field
+0.2134833846261951,0.2,0.50123274,0.026365567,-0.008273557,0.30965927,0.4527114815983182,0,A woman holding a baby and making faces at it .,a woman holding a small child in her lap
+0.054250356667835974,0.16666666666666666,0.2780932,0.0003068743,-0.9985055,0.20429581,-0.31154992762108275,1,A man on rollerblades is doing a trick .,a man walking up a steep path next to a body of water
+0.3324381311155136,0.2,0.76232433,0.0030025456,0.0003263012,0.34710324,0.9128914153369103,0,a blond girl doing a handstand on a beach,a person doing a handstant on the beach
+0.12551963371698244,0.16666666666666666,0.30449653,0.0005085406,-0.95607954,0.27511072,0.01817613079011768,0,Lots of people are playing in the river that runs through the city and in the sandy park beside it .,people on the beach
+0.2697633248832125,0.4,0.76313925,0.87046826,0.8649822,0.3123755,2.141919148883994,0,A dog plays with a toy in the grass .,a dog playing with a tennis ball in the grass
+0.5623306595335369,0.3333333333333333,0.74025095,0.0039503137,0.0013446887,0.34996787,1.2023818219168998,0,A girl in a colorful dress and sunglasses is playing a violin on the street .,a woman playing a violin on the street
+0.30487962948457126,0.5,0.8596295,0.241311,0.2340913,0.32381913,1.281486104206857,0,A dog catching a ball in a snowy field .,a dog playing in the snow with a ball
+0.6094082569226141,0.8,0.82432914,0.0064529944,0.004803093,0.38412553,1.4449235839552717,0,A black dog carrying a stick in its mouth runs through a huge puddle in the grass .,a dog running through a puddle with a stick in its mouth
+0.0,0.0,0.0032345196,0.00029201183,-0.9985017,0.17877875,-0.701968252210339,1,A man performing martial arts kicks his opponent .,a little boy in a tree
+0.0,0.0,0.14042908,0.0015178878,-0.3265982,0.30621302,-0.19463566645832864,0,A monk in a red shawl looks at the camera,an old man sitting on the sidewalk
+0.09961790493375382,0.16666666666666666,0.23738256,0.015631009,-0.88955706,0.24686849,-0.13527784848335433,1,"A person on what appears to be a surfboard , rides the waves onto shore .",two people swimming in the water with one person in the water
+0.23257803091165988,0.2,0.6285825,0.008303223,0.006825463,0.34709913,0.6734914446390765,0,A female toddler wearing a pink shirt is playing on a playground .,a little girl standing on a playground slide
+0.9095301104373558,1.0,0.9450238,0.8090916,0.8010266,0.35481614,3.162131064110593,0,A girl drinking from a water fountain .,a young girl drinking water from a water fountain
+0.06159230691805062,0.2,0.2586736,0.00030902377,-0.9980223,0.16009192,-0.4523889478715278,1,A group of cross-country skiers are skiing down a trail .,a group of people posing for a picture
+0.0,0.0,-0.14888044,0.00054672814,-0.99820906,0.08212588,-1.1273091281935772,1,A little girl in a rain puddle .,two men posing for the camera in a hotel room
+0.0,0.0,0.14178026,0.00027256843,-0.99809766,0.17000484,-0.605967677681168,1,A black dog is running across the grass carrying something in its mouth .,a person riding a motorcycle on a wet road
+0.0,0.0,0.1578495,0.0011077853,-0.99693114,0.17079428,-0.588021456746777,1,A dolphin above water,a dog is running through the sand dunes
+0.0,0.0,-0.016755654,0.00027600204,-0.9965203,0.15352088,-0.7957862760111889,1,An Ambulance is passing a man wearing a bandanna and girl .,a black and white dog running in the snow
+0.1214364230470298,0.14285714285714285,0.45717368,0.0023093575,-0.9044644,0.30021104,0.22641740831243848,0,A baby girl has the contents of a red pot all over her face .,a baby sitting in a high chair eating food
+0.47987724360445405,1.0,0.6931289,0.010333513,0.008756875,0.33322394,1.0134954455966378,0,A brown dog is flying through the air .,a dog jumping in the air
+0.39811210272412945,0.5,0.6968833,0.038629044,0.03501233,0.2842329,0.8090231141652058,0,A dog is running away in the grass,a dog running in the grass with trees in the background
+0.23995532718448354,0.4,0.6486222,0.0061991788,-0.006435186,0.3458829,0.69369979770409,0,A brown dog is running next to a chain link fence while a darker dog stands nearby .,two dogs running in the grass near a fence
+0.0,0.0,-0.08226018,0.00037205234,-0.9985316,0.08717942,-1.0534715722486576,1,A climber hanging from an ice pick in the side of a frozen waterfall .,a crowd of people sitting in chairs in front of a building
+0.2896587548382899,0.6666666666666666,0.732459,0.015739001,0.013346349,0.40302908,1.0201970694511941,0,A curly-haired boy jumps up on a bed .,a young boy jumping on a bed in a bedroom
+0.4375191342912859,0.3333333333333333,0.5394832,0.01374382,-0.7790735,0.32322067,0.7980269516044793,0,A child leaping from bed to bed behind the back of a man .,a man jumping on a bed in a hotel room
+0.42873678239522073,0.5,0.8078363,0.92483616,0.9235485,0.28991425,2.40902883873365,0,A dog running outside .,a dog running in the grass
+0.3383086054016465,0.16666666666666666,0.6704781,0.058593348,-0.04716952,0.28760862,0.7506716240368596,0,A lone surfer riding a huge wave in the ocean .,a man riding a wave on top of a surfboard
+0.0,0.0,0.13508493,0.00034996175,-0.99853075,0.15624829,-0.6532188351437649,1,A girl is jumping in the air while holding an orange and white guitar .,a child painting on a canvas with colorful paints
+0.0,0.0,-0.027693793,0.0006914387,-0.99796593,0.14064673,-0.8435775931164822,1,A girl rides on a swing .,a group of people sitting at a table in a restaurant
+0.0,0.0,0.046530664,0.0005762253,-0.99817437,0.08890331,-0.9340921263382038,1,A black and white dog with a red Frisbee standing on a sandy beach .,two boxers in a boxing ring
+0.21290050119190868,0.16666666666666666,0.4847409,0.027375184,-0.024888288,0.3379224,0.5241989425716402,0,The women sit outside on the steps reading and drinking .,two women sitting on a bench in front of a building
+0.0,0.25,0.27279377,0.0018010759,-0.024960715,0.3227312,-0.027381982205828104,0,A man with a blue shirt posing with a taller man in sunglasses,two men walking down the street
+0.47940513225607706,0.5,0.44842398,0.01635826,-0.14071591,0.30964303,0.7353193494411311,0,A boy and a dog on a dock are watching another dog swim away .,a man and his dog are standing on a dock
+0.0,0.0,-0.012338191,0.00071114884,-0.99782103,0.20718698,-0.6294360975906452,1,A group of adults are walking .,two dogs running through a field of flowers
+0.1762563578737844,0.0,0.041587472,0.0003255613,-0.9985611,0.12801217,-0.591900769556882,1,Three boys all wearing green shirts are climbing on a slide .,a dog running across a lush green field
+0.0,0.0,0.06698482,0.00027469342,-0.9985033,0.13898528,-0.7655683229848942,1,A black dog bites at a stream of water on the grass .,a woman sitting on a bench on the beach
+0.5073904637291364,0.8,0.8389198,0.05401512,0.052423995,0.32241756,1.21679452202989,0,A group of people sitting on benches at a city park .,a group of people sitting on a park bench
+0.0,0.0,0.0284043,0.0004936407,-0.99832696,0.124722764,-0.8423000271603664,1,A little girl dances in a room with balloons on the floor .,a dog jumping over an obstacle in a park
+0.0,0.0,0.11998213,0.0007265057,-0.9970274,0.2710083,-0.32009897336216775,1,"A lone performer or lecturer takes the stage in an urban setting , for a crowd of about 30 spectators .",a group of children playing in the street
+0.204797225883393,0.3333333333333333,0.47671187,0.00041200448,-0.9972411,0.25848532,0.223201153190077,1,A group of foreign people stand with umbrellas on the side of the street .,a group of people standing around a table
+0.11204282137521433,0.3333333333333333,0.435921,0.015020877,-0.21764956,0.29315925,0.19489414769408422,0,A group of people stand and look at a kid who jumped .,a group of people watching a skateboarder at a skate park
+0.0,0.0,0.04250315,0.0003951789,-0.9732694,0.18540525,-0.6471159602686962,1,"A man in all black is using a green bike to trick over a sign saying , "" Free Dinner "" .",a young boy playing with his dog in the park
+0.08325659153229376,0.2,0.4537079,0.0018577724,-0.0028801314,0.36370113,0.36433204014615683,0,A black policeman is smiling at a larger woman,a police officer talking to a woman on the street
+0.2019819157973426,0.16666666666666666,0.4371036,0.012808964,-0.17331438,0.31920105,0.3877230422592094,0,A man is standing on snow with trees and mountains all around him .,a person on a snowboard in the snow
+0.0,0.0,0.015436158,0.0005177503,-0.9982847,0.121522054,-0.8633706192657551,1,A big black dog with fluffy fur runs in the surf of a rocky shore .,a group of men playing soccer on a field
+0.0,0.0,0.08253434,0.00058698363,-0.9842545,0.16986921,-0.6582372109577259,1,A dirt bike rider jumps into the air and does a trick .,a brown and white cow
+0.0,0.0,-0.0940093,0.00031367442,-0.9985414,0.1003398,-1.0242910529658398,1,A man is bungee jumping from a platform whilst being watched by someone above him .,two little girls standing in front of a tree
+0.21980851675108556,0.3333333333333333,0.46720272,0.063802265,0.024298266,0.24654822,0.30169231393180157,0,A dog in a field .,a dog jumping in the air
+0.18493408048216312,0.5,0.40035737,0.013870964,-0.054990746,0.33286875,0.37600233072851985,0,Two brown dogs trot along frozen ground in a rural setting .,a dog running through the snow covered ground
+0.0,0.0,0.22174357,0.00041768886,-0.9984975,0.20025706,-0.4438711400315365,1,A girl rides on a swing .,a dog running in the grass
+0.0,0.0,0.15795973,0.007145855,-0.005612578,0.32803133,-0.10420725077243653,0,A disabled athlete is competing with his sponsored gear along a street lined with spectators .,a man in a tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri
+0.41449761754131464,0.5,0.6957997,0.008070039,-0.059097394,0.3327368,0.9257142255312656,0,A dog in a life jacket sitting on a boat with a man in the cockpit .,a man and a dog in a small boat
+0.0,0.0,0.085492946,0.0031843497,-0.19838384,0.20533177,-0.5445117945954403,1,Little kids stand together and receive an award for something .,a group of people playing in a pool
+0.0,0.0,-0.104922846,0.0003025956,-0.9975786,0.19870085,-0.7375221247956356,1,Two dark haired girls are on a tire swing .,a dog jumping over an obstacle in a field
+0.0,0.0,-0.022294618,0.0005269045,-0.99782014,0.15736362,-0.7886925931260189,1,A big dog and a little dog stand near each other near the water .,a man wearing a red shirt
+0.0,0.0,0.15917867,0.00029156965,-0.9978833,0.2663676,-0.3001442398116192,0,A long haired mail is swinging his wet hair around in the ocean .,a woman splashes water on her face as she stands in the water at the edge of a lake
+0.0,0.0,0.21577828,0.0003187184,-0.9968872,0.19632739,-0.4611488650724491,1,A professional horse race,two dogs running in the snow with a tennis ball
+0.0,0.25,0.17622209,0.0002962702,-0.9964801,0.19236958,-0.5080809588715633,1,A brown dog walks through snow .,two dogs playing in a field of tall grass
+0.13589246184986795,0.25,0.1546218,0.00066386914,-0.9879254,0.20442188,-0.31361462001132495,1,A brown and white dog standing next to a smaller brown and white dog in front of a fence .,a dog jumping in the air
+0.0,0.0,0.41218847,0.0009605065,-0.9955544,0.22903383,-0.18790699124189225,1,A bicyclist doing a jump .,a dog jumping in the air
+0.0,0.0,0.12946741,0.0014046776,-0.93609124,0.28363508,-0.272554412035664,0,A girl in the bathing suit talking to a guy .,a man and a woman are sitting on a bench
+0.0,0.0,0.12301828,0.00025391727,-0.99806756,0.21937653,-0.47379029497357217,1,"a brown and white dog jumping over a red , yellow and white pole",a person standing on a platform in front of a building
+0.0,0.0,0.15678662,0.0005227489,-0.99827206,0.16596898,-0.6044571544215283,1,A dog running outside .,a man riding a mountain bike down a rocky trail
+0.120343193903903,0.25,0.20834938,0.00084525824,-0.99522066,0.21260591,-0.26137074900366747,1,A group of people mill around while a man in a fish costume descends a staircase .,a group of people walking down a street holding signs
+0.7736259232896477,1.0,0.9840407,0.8327612,0.82848716,0.27397484,2.814927259586444,0,A group of men play soccer on the field .,a group of men playing soccer on a field
+0.4640249991530993,0.2,0.54139876,0.0019833131,-0.004610356,0.28887904,0.7115011829950668,0,A man riding a motorcycle while wearing a black uniform .,a person riding a motorcycle on a track
+0.0,0.3333333333333333,0.27647206,0.008875515,-0.0459612,0.21985981,-0.32262276440711823,1,The two gray dogs are trying to get a red object .,a dog jumping in the air
+0.0,0.2,0.51308465,0.012369974,0.0024067992,0.32067984,0.19608603462723884,0,A brown and white and a black and white dog hauling in a floating toy from the ocean .,two dogs playing in the water at the beach
+0.0,0.0,0.30513632,0.003519764,-0.74358094,0.25842705,-0.18978467445673552,0,"young , boys one boy is hitting another boy while the third boy smiles in the background",a group of children standing next to a car
+0.22928827891624154,0.25,0.5187136,0.0018562792,-0.0022809086,0.372296,0.6375159396171328,0,A brown and white dog is jumping through a red hoop .,a dog jumping over an obstacle in a park
+0.0,0.3333333333333333,0.42422614,0.0031914108,-0.01146912,0.301062,0.04344596758631858,0,A black and a brown dog are running toward the camera .,two dogs playing in the yard with each other dogs
+0.19246931076674204,0.25,0.12782481,0.0002786288,-0.9910396,0.11341246,-0.5386688350756212,1,A child in gray clothes is sleeping on a red cushion .,a man carrying a child
+0.31055732855668605,0.2,0.44195682,0.0044218865,-0.0081792995,0.2651167,0.3564729098004581,1,a boy in white plays baseball .,a group of people playing baseball on a field
+0.0,0.0,-0.022460077,0.0005483464,-0.99823135,0.09490419,-0.9770403201863369,1,Two hikers stand at the top of a snowy mountain .,a man hitting a boxer with a punching glove
+0.0,0.0,0.43243843,0.012006253,-0.7027472,0.29864568,0.057796448917667,0,Two children are on a fairground ride .,two people riding in a cart on a city street
+0.06643146465633806,0.2,0.36088383,0.0005659225,-0.99217707,0.33610713,0.1751379304385614,0,A man climbs out of the ocean onto a rock,a man in a wet suit standing in the water
+0.07928342831647056,0.0,0.028995,0.00025757338,-0.9984262,0.13036261,-0.722109536405562,1,Two girls in blue and teal dresses and large hats are standing next to a large tree trunk .,a young boy standing in the water at the beach
+0.0,0.0,0.07753567,0.0004382571,-0.9983382,0.22216164,-0.5053028236314854,1,A group of mountain climbers,a couple of dogs running in a field
+0.163860004018035,0.14285714285714285,0.5364214,0.015337957,0.01104873,0.31676567,0.4227514876093114,0,A boy makes a jump with a dirt bike with the sun setting behind him .,a person jumping on a bike in the air
+0.12245982052278385,0.3333333333333333,0.4399553,0.024308834,0.019122623,0.2717212,0.1625366702939482,0,A boy dressed for Halloween,a young boy in a green and red shirt
+0.0,0.0,0.13852929,0.0005827784,-0.99821705,0.10902703,-0.7921069632455906,1,A dog in a field .,a man riding on the back of an elephant
+0.0,0.0,0.058680013,0.00023736867,-0.9979434,0.18446857,-0.6358958701774677,1,A dirty jeep is stuck in the mud .,two people climbing up a rocky mountain
+0.21473513602824013,0.3333333333333333,0.5569833,0.014888569,0.009161345,0.3273288,0.5381597680634946,0,A brown dog drinks from a body of water .,a dog standing in the water with a stick in it ' s mouth
+0.09455687407317459,0.2,0.60053235,0.04380619,-0.55089027,0.30565137,0.40226517866098566,0,A boy sits on a tree stump .,a boy sitting on top of a wooden post
+0.04612265940609727,0.14285714285714285,0.277987,0.0028149507,-0.80505955,0.28332222,-0.07995407899234136,0,A man in black stands between two huge soft toys at a fairground .,a man standing in front of a group of lions
+0.0,0.0,0.22811756,0.0009966865,-0.9966547,0.14740168,-0.5965847964570126,1,A bird swooping over water .,a dog chasing a cow
+0.3548101384372904,0.5,0.5240939,0.031529114,-0.21269834,0.30783284,0.6595386229270989,0,A dog carries an orange toy in its mouth .,a dog is running with a ball in its mouth
+0.0,0.0,0.11058834,0.00034302232,-0.9985146,0.18425752,-0.5904726158067783,1,A dog chasing a ball indoors .,a man in a suit and tie holding a teddy bear
+0.0,0.0,0.18222784,0.0045196954,-0.6278756,0.306501,-0.15192310094686357,0,A closeup of a teenage girl wearing red beads .,a woman in a gray hoodie walking down the street
+0.31164047207530804,0.6666666666666666,0.57146657,0.020136762,-0.7948894,0.3050127,0.6182273902480173,0,a dog stands in the white snow .,a dog running through the snow covered ground
+0.062304936379564635,0.16666666666666666,0.19935307,0.007329481,-0.39196488,0.30213475,-0.06437487016333507,0,A man dressed in a military uniform bends over to speak to a person sitting on the sidewalk .,a man in a white shirt
+0.0,0.0,0.12919252,0.00048599494,-0.99836373,0.14274676,-0.6988959904000362,1,A family jumps into a blow up raft in their living room .,a young boy pitching a baseball during a game
+0.0,0.0,0.10575919,0.00031206757,-0.99851424,0.12805456,-0.7641731421634754,1,A black dog soaked in liquid jumping to the grass .,a man holding an umbrella
+0.0,0.0,-0.0015233215,0.00024829712,-0.99805725,0.20222443,-0.6355862762019238,1,A man in a long sleeved white shirt is walking past something called the lounge bar .,a little boy running on a dirt road
+0.0,0.0,0.097936735,0.0004328487,-0.93689114,0.15236326,-0.6976311798379025,1,A boy wears a foam hat to show support for his team at a game .,a bird standing in the surf of a beach
+0.5186342690121857,0.25,0.7353666,0.19087896,0.021975294,0.33338377,1.396079477303664,0,A kid is pushing a shopping cart behind an adult inside a consumer market .,a man pushing a child in a shopping cart
+0.0,0.0,0.05637895,0.0004227127,-0.99837744,0.15073037,-0.7393059055492481,1,A girl in an orange shirt lights candles .,a man flying through the air while riding a bike
+0.574033191602335,0.8,0.7019294,0.020530934,-0.5403254,0.31799382,1.1143909129988652,0,A group of foreign people stand with umbrellas on the side of the street .,a group of people walking down a street holding umbrellas
+0.0,0.0,-0.17499125,0.00034836523,-0.99856514,0.09656174,-1.1072086463853916,1,A man wearing a orange vest is canoeing in the blue water .,two girls on a swing
+0.04330283012482093,0.125,0.32604367,0.0015114663,-0.7087721,0.31989282,0.06695159451259472,0,A man in bright orange shorts is skateboarding along a course with cones as two people observe in the background .,a man wearing a helmet
+0.6058568242863973,0.2,0.48152855,0.00078941736,-0.9961018,0.33925465,0.9928075308353882,0,A child doing gymnastics,a group of people doing gymnastics in a gym
+0.0,0.0,0.40533707,0.0023534463,-0.98357505,0.29093766,-0.005130387394150171,0,Lacrosse players struggling for control of the ball .,a group of men playing a game of field hockey
+0.5221685771109683,0.3333333333333333,0.62160075,0.0025067031,-0.054081276,0.3289119,0.9794794314191241,0,The three children are holding umbrellas and watching the ceremony in the rain .,a group of people standing in the rain with umbrellas
+0.7985281876619384,1.0,0.8772596,0.95068544,0.9469714,0.27598488,2.9512394177547643,0,A girl in a bathing suit carries a paddle .,a little girl in a bathing suit holding a paddle
+0.0,0.0,-0.01757635,0.0002302648,-0.998031,0.14617166,-0.8187349955722889,1,A little girl holds the water hose for the dog to drink from .,two people riding in a cart on a city street
+0.0,0.0,-0.032241214,0.00053930527,-0.9982643,0.17955433,-0.7305882121607861,1,A man and a boy behind the wheel of a car .,a person is standing in the water near rocks
+0.6624360609321618,0.6,0.78347015,0.05324889,0.026927684,0.28370592,1.2513960862593825,0,A city street is busy with people as one person walks across the crosswalk .,a crosswalk on a city street
+0.15766706572567915,0.0,0.36969298,0.0066121924,-0.1940587,0.39173388,0.47902054118484777,0,"A crowd is watching 2 shirtless men , one in yellow pants and one in black shorts perfom .",a group of people watching a street performer
+0.29689844328398984,0.6666666666666666,0.57858276,0.0047436478,-0.026484828,0.3352955,0.6715211617748387,0,A boy looks startled as he falls in the sand .,a young boy playing in the sand at the beach
+0.0,0.0,0.07349186,0.00034981436,-0.9963901,0.13438761,-0.7735497798010906,1,"A brown , black and white dog is on a obstacle course .",a group of people riding on the back of a bus
+0.1010266057967749,0.2,0.16169184,0.009355553,-0.33514997,0.22498003,-0.27655588533441694,1,A boy and a dog on a dock are watching another dog swim away .,a dog walking on the beach at sunset
+0.3284865773932257,0.14285714285714285,0.59016514,0.0013377679,-0.98850495,0.29566967,0.5978443526376873,0,Four guys playing soccer on the pavement .,a group of people playing soccer on a dirt field
+0.0,0.0,0.09137452,0.0003843243,-0.9985475,0.14713971,-0.7192537035033306,1,A blond dog runs in the ocean surf .,a little girl is playing on a slide
+0.0,0.0,-0.08645659,0.00027766378,-0.998503,0.08064717,-1.0770215834662518,1,A brown and black dog fetching a tennis ball in a lake .,a group of young girls sitting around a table
+0.0,0.0,0.4732694,0.0031741296,-0.9902917,0.2909161,0.05619496897010001,0,A dolphin above water,a seal swimming in the ocean with its mouth out
+0.3686778261457163,0.25,0.6068421,0.8486174,0.84039927,0.29640344,2.048561621835052,0,A person drives in a red car .,a red car driving down a street next to a bridge
+0.451635012995289,0.3333333333333333,0.56271005,0.0062494343,-0.82476187,0.2861035,0.7128265860733579,0,girls with baseball gloves walking across a baseball field,a group of kids playing baseball on a field
+0.4380293623002561,0.4,0.5320615,0.003154619,-0.8958123,0.32119676,0.7687638018692792,0,People laying in massage chairs,a group of people sitting in chairs in a room
+0.0,0.2,0.5564857,0.0038011656,0.00016784505,0.30304784,0.16734257385281714,0,A professional horse race,a group of people riding horses on a track
+0.0,0.0,0.078845315,0.0007405886,-0.99793154,0.18596147,-0.6127499710008701,1,Dogs on grass .,a group of people sitting under a tent
+0.2992340243638255,0.6666666666666666,0.62258923,0.0020951154,-0.00088524935,0.36155653,0.7882841555517561,0,A small girl in yellow slides down an orange slide .,a little girl sitting on a slide in a playground
+0.0760658133923924,0.25,0.66308177,0.006270337,0.0050307233,0.31619316,0.4040899895494119,0,A black and white dog jumps over a hurdle .,a dog jumping over an obstacle in a field
+0.1749025204661062,0.14285714285714285,0.49536604,0.0006575937,-0.9979025,0.29284316,0.30477899300415995,0,A woman bicycles down the hill on a dirt trail .,a man riding a bike down a dirt road
+0.06212106052392709,0.25,0.23050018,0.0044228816,-0.015871447,0.2836401,-0.09755724824830331,0,A brown dog bares its fangs .,a woman holding a dog on a leash
+0.0,0.0,0.14119205,0.0012278042,-0.98213655,0.1213592,-0.7515354077503285,1,A boy in a swimsuit sitting on top of a circular fountain .,a man in a yellow shirt
+0.5377938656803456,0.6,0.80113393,0.0027645854,0.0003552963,0.3420449,1.198497235540544,0,A group of dancers wearing black spandex are dancing in a studio .,a group of dancers in a dance studio
+0.27361656406518375,0.4,0.61575437,0.004238057,-0.010434986,0.22541799,0.34215149294717395,0,A baby sits in a black and white chair and puts its fingers up its nose .,a baby in a high chair eating food
+0.08114566088318059,0.2,0.7087203,0.007042352,0.004813823,0.33849454,0.5195068191533991,0,A blond dog runs in the ocean surf .,a dog running through the water on a beach
+0.5276744098271439,1.0,0.8419464,0.65085346,0.63277394,0.29649234,2.1408714122529395,0,A girl is peeking in a window .,a little girl looking out a window
+0.31966328785576265,0.2,0.71208704,0.0708135,0.05628276,0.3133311,0.860664171946538,0,A male tennis player runs for a shot .,a man playing tennis on a tennis court
+0.0,0.0,0.0022432152,0.0005745021,-0.9964694,0.17111072,-0.7254933710381588,1,"The two people are standing on a rock , holding themselves up against another rock , while looking down",a man uses a snow blower to clear the snow from the sidewalk during a snowstorm in downtown on january 26 2015 in new york new
+0.5759196503273716,0.6666666666666666,0.84092546,0.8568747,0.84173095,0.30434638,2.562275545950985,0,The children play in the pool .,two children playing in a swimming pool
+0.0975454320697517,0.3333333333333333,0.27673623,0.0002423925,-0.99837655,0.18813556,-0.3052805159914621,1,A man is riding on a red motorcycle .,a man laying on the ground
+0.0,0.0,-0.08762151,0.0005162893,-0.9983091,0.1440917,-0.8864570553586086,1,A boy in a hat stands barefoot at the edge of a body of water .,two little girls sitting in a yellow and blue tent
+0.33840146741838134,0.4,0.57029265,0.041715406,0.016490601,0.27405795,0.5938700471560154,0,A group of mountain climbers,a group of people walking across a snow covered mountain
+0.7873589760470665,0.4,0.74473584,0.06284306,-0.00013761967,0.29486498,1.4288095467025954,0,A man is riding an elephant while another person is touching the elephant 's head .,a man riding on the back of an elephant
+0.08027907243382941,0.14285714285714285,0.2026523,0.0004998576,-0.9970374,0.16400269,-0.46552473326586247,1,A city street is busy with people as one person walks across the crosswalk .,a group of people standing around a podium
+0.0,0.0,-0.11193978,0.00043896856,-0.9984393,0.16519225,-0.8444889406845173,1,The children play in the pool .,a person walking across a crosswalk on a city street
+0.0,0.0,0.2935387,0.00039031226,-0.9985266,0.14402437,-0.5499195140026709,1,A small white dog sits in a field,a little boy walking down a street next to a lamp post
+0.0,0.0,0.06280559,0.021813218,-0.011527576,0.14596793,-0.713099479226788,1,children smiling with facepaintings,people on the beach
+0.0,0.0,-0.05420017,0.00032947314,-0.9985973,0.15943304,-0.8109823758885464,1,"A big , shaggy dog runs in a field of dandylions .",a little girl in a bathing suit holding a paddle
+0.0,0.0,-0.047949906,0.00029981553,-0.99846756,0.10118954,-0.9810362304732403,1,A group of people standing in front of a setting sun .,a brown and white dog running with a red ball in its mouth
+0.4441939720330057,0.4,0.8531352,0.117712714,0.045384564,0.2913045,1.1573099610474784,0,A bunch of children sitting in chairs and standing on wooden floors .,a group of children sitting on a wooden floor
+0.24803834858413212,0.4,0.7602234,0.004643131,0.0029943124,0.31306455,0.7014188236976302,0,a boy in an orange jersey is about to pitch a baseball .,a young boy pitching a baseball during a game
+0.0,0.0,0.08506699,0.0003302519,-0.9981628,0.14910221,-0.7190032745883068,1,A parachute caught on a tree with some people on the ground shining a light at it .,a man and his dog are standing on a dock
+0.0,0.0,-0.08250372,0.00039579085,-0.99851155,0.12746008,-0.93225278660508,1,A little boy and girl are jumping on a trampoline in front of a yellow building .,a person riding a motorcycle on a road
+0.0,0.0,0.022587689,0.0002703065,-0.9981772,0.1877352,-0.6579030151650509,1,A bicyclist performing a trick in midair .,a group of people sitting on top of a mountain
+0.11042669501362308,0.16666666666666666,0.2941134,0.053174954,-0.66284937,0.23013224,-0.06029990012599734,1,A group of adults are walking .,a group of people standing on top of a brick wall
+0.0,0.16666666666666666,0.37054676,0.007440438,-0.42492,0.2504924,-0.14948200017066804,0,A man in a white shirt and a man in a black shirt in a hallway .,two men posing for the camera in a hotel room
+0.0,0.0,0.124676675,0.00039150994,-0.998526,0.10941787,-0.8034866373226246,1,A black dog leaping off the sand .,a little boy playing a guitar on the stairs
+0.0,0.0,0.19093713,0.0017092373,-0.676164,0.29106444,-0.19532837673874703,0,"two girls hold up a card reading "" know what this is "" ?",two people sitting in the back of a car
+0.0,0.0,-0.034910217,0.000651505,-0.9973783,0.17844608,-0.7361045922324261,1,A group of adults are walking .,a man standing in front of a table filled with food
+0.0,0.0,0.116368234,0.00044960034,-0.9800449,0.22739783,-0.45517579048724977,1,A girl is jumping in the air while holding an orange and white guitar .,a woman wearing a hat
+0.0,0.14285714285714285,-0.07106623,0.0002720706,-0.9963308,0.10953322,-0.9763706172988018,1,Men in blue uniforms holding little girl with bandaged face and stuffed animal,a man playing tennis on a tennis court
+0.14267061061176806,0.16666666666666666,0.24532476,0.0004411081,-0.990562,0.17755535,-0.3059545170935558,1,A little boy walks with a woman wearing red in a wheelchair .,a woman walking through the snow in a park
+0.0,0.0,0.015068702,0.0002562382,-0.9983909,0.14853321,-0.7827173094436726,1,"A man in all black is using a green bike to trick over a sign saying , "" Free Dinner "" .",a group of people in uniform playing instruments
+0.0,0.0,0.07168899,0.0005287171,-0.99829537,0.13378441,-0.7766696955248913,1,A little baby plays croquet .,a person riding a bike through some trees
+0.0,0.0,0.29777062,0.013388247,-0.8566326,0.3601668,0.12641200142128262,0,A girl and guy holding signs and hugging .,a man carrying a woman in a green shirt
+0.0,0.0,0.13125986,0.012611655,-0.88268155,0.14890844,-0.6587274442598423,1,A male and a female are leaning against railing looking off with the ocean in the background,a young boy standing on a sidewalk next to a tree
+0.08268879422541521,0.16666666666666666,0.68310595,0.0031604213,-0.0019516912,0.3493222,0.5251716559241653,0,A baby girl wearing a pink jacket climbs wooden steps .,a little girl is walking up some stairs
+0.0,0.0,0.19028449,0.0003534373,-0.99476045,0.15466683,-0.6091828267261585,1,a boy in a white t-shirt is playing on a swing that is attached to a tree .,a person on a bike doing a trick
+0.05933800856418486,0.2,0.19967353,0.00037490542,-0.962248,0.34946126,0.06334189901298393,0,"A blond woman is throwing a stick for her orange dog , who is leaping to get it .",a young boy playing with his dog in the park
+0.4525952351207695,0.5,0.6770998,0.0037724765,-0.017714703,0.38148478,1.0986109067273262,0,A boy holds a light saber in front of a Christmas tree .,a child standing in front of a christmas tree
+0.0,0.0,0.014955236,0.0005162507,-0.9662347,0.23900259,-0.5097425631419024,1,A man is shirtless and is covered in red marks .,a group of police officers standing in front of a building
+0.5562494731882912,0.5,0.8563956,0.7437125,0.73597884,0.32403705,2.425210273641121,0,A person on a snowmobile in mid jump .,a person on a snowmobile in the air
+0.0,0.0,0.023481984,0.00025498032,-0.99847776,0.121085614,-0.8580019022509655,1,A crowd is standing and cheering at a football game .,a man climbing up a snowy mountain
+0.34921326189963364,0.5,0.5755729,0.005099318,0.0025191184,0.34075895,0.7539069488815648,0,A black dog leaps in the water .,a dog running in the water at the beach
+0.0,0.0,0.08343809,0.0002897601,-0.99834406,0.14169087,-0.7428450952455601,1,A grey bird stands majestically on a beach while waves roll in .,a woman standing next to a man holding a camera
+0.05099191612172207,0.16666666666666666,0.22197133,0.00061092334,-0.9662952,0.28645927,-0.11728217695316198,0,A man in a wide-brimmed hat is sleeping against a column .,a man sitting on a bench in front of a building
+0.08401999640574187,1.0,0.73043126,0.3734383,0.29585707,0.34609962,1.1627774834695215,0,A dog runs by two cows .,a dog chasing a cow
+0.0,0.0,0.03996241,0.00046278365,-0.9983695,0.15433097,-0.7429015557453236,1,A black dog leaps in the water .,a man standing on top of a snow covered mountain
+0.2849474246513332,0.2857142857142857,0.45455885,0.0034905497,-0.971255,0.3114699,0.47250214212382535,1,A dog in a grass field runs with a ball in its mouth .,a dog running through a puddle with a stick in its mouth
+0.1816707211164558,0.14285714285714285,0.4125252,0.0017020073,-0.01781291,0.31854215,0.3194982522953512,0,A boy in a black and white shirt holds a red skateboard as he stands over the Hollywood Stars .,a man with a skateboard standing on a sidewalk
+0.05036215194239652,0.2,0.5883026,0.0016751479,-0.012619284,0.33643785,0.35809397396698084,0,A brown dog jumps over colorful poles and numbered cones .,a dog jumping over an obstacle in a park
+0.24191394185145934,0.4,0.43741077,0.03276319,0.027139982,0.2347172,0.2178238748841641,0,A group of people in protective gear .,a group of people standing on top of a mountain
+0.0,0.0,-0.056053557,0.00018902341,-0.9964827,0.17846134,-0.7555034156128964,1,A girl slides down a purple slide .,two dogs playing with each other dogs in a living room
+0.0,0.0,0.31674677,0.00042769845,-0.9984574,0.26593792,-0.1619269582614502,0,a lone bicyclist jumping in the air over a ramp .,a skateboarder doing a trick at a skate park
+0.0,0.0,0.12563853,0.00023494902,-0.9982813,0.12519258,-0.755350797919949,1,A boy and a dog on a dock are watching another dog swim away .,a group of people holding black and white flags
+0.0,0.0,-0.06468887,0.0001993594,-0.996756,0.14350784,-0.8684609453365406,1,A man holds a stick up for a dog to catch while another dog looks on at the beach .,a group of people sitting on couches in an art gallery
+0.07998340790038316,0.16666666666666666,0.4327161,0.0017226527,-0.96948445,0.30669695,0.16950458789143047,0,"A woman , covered in a red and blue shawl , smoking a cigarette , eyes closed .",a woman with a scarf around her head
+0.2724076679271432,0.16666666666666666,0.43189692,0.0012142637,-0.6964124,0.35108903,0.5518593771031183,0,A boy in a swimsuit sitting on top of a circular fountain .,a fountain in the middle of a park
+0.0,0.0,0.15279448,0.00028954964,-0.99785495,0.12730652,-0.7248850236818394,1,A black and white dog jumps over a hurdle .,a man on a rock climbing up a steep
+0.22570825817231777,0.6666666666666666,0.79325396,0.0039689685,0.0024949028,0.3103872,0.6924241370813183,0,A brown dog and a tan dog are playing in tall grass .,two dogs playing in the grass with each other dogs
+0.0,0.0,0.012938203,0.0011136498,-0.9958422,0.20945413,-0.5996028478428921,1,A child doing gymnastics,two dogs playing in the sand
+0.5487579005952672,0.5,0.5892871,0.00135547,-0.009575711,0.2930452,0.8755061344130252,0,A bald man is sitting on a rock next to a woman in a black jacket .,a man sitting on a rock
+0.0,0.0,0.09659524,0.00048981106,-0.9950537,0.24767753,-0.41147181253733245,1,A little old lady sitting next to an advertisement .,a red car driving down a street next to a bridge
+0.0,0.0,-0.15355334,0.0002834907,-0.9984336,0.16968457,-0.8679901580497822,1,A little girl holds the water hose for the dog to drink from .,a person on a skateboard in the middle of a street
+0.32971236632255047,0.3333333333333333,0.7659818,0.089418426,0.06463363,0.30001238,0.9115663141608557,0,A furocious female tennis player about to hit a tennis ball in the air .,a woman hitting a tennis ball with a racket
+0.0,0.0,0.27213442,0.0019137929,-0.62259656,0.17203787,-0.4819314326331219,1,A blonde girl climbing on a play set .,a group of children playing on a wooden floor
+0.14362400612134607,0.25,0.3680141,0.0035292148,-0.050352097,0.258816,0.05367587785250266,0,A girl in a gray shit is throwing her hands up .,a girl in the street
+0.0799426304779231,0.0,0.38872185,0.021128438,0.010091202,0.3087007,0.1682413186977499,0,A little old lady sitting next to an advertisement .,a woman sitting on a bench in a subway station
+0.0,0.0,0.13097292,0.00039062632,-0.99845,0.15238541,-0.6684292326852879,1,A big dog and a little dog stand near each other near the water .,a couple of people laying on a couch in a living room
+0.0,0.0,0.092623025,0.00041361334,-0.9984815,0.13557464,-0.7529563750311932,1,A kayaker falling down a waterfall,a woman running through a field of tall grass
+0.0,0.0,-0.09219892,0.0002322754,-0.99656117,0.18447593,-0.7692590425893864,1,"A man in all black is using a green bike to trick over a sign saying , "" Free Dinner "" .",two dogs running in the grass near a fence
+0.2730874600872438,0.25,0.49491277,0.0030726166,-0.021981075,0.250448,0.30817329766355595,1,Two dogs kick up dirt while running down a hill .,two dogs playing in the yard with each other dogs
+0.0,0.0,0.0481056,0.00032578077,-0.9985452,0.13590255,-0.7914647753522,1,A kayaker falling down a waterfall,a man standing outside of a yellow house
+0.0,0.0,0.05647529,0.0005158217,-0.9801185,0.16644016,-0.6917237336918911,1,A crowd watches as two formula one cars leave the starting line .,a black and white dog and a black and white dog
+0.0,0.0,0.116059795,0.00044091782,-0.99839735,0.24246411,-0.41005675123857466,1,A girl slides down a purple slide .,a young boy on a swing in a park
+0.0,0.0,0.034203947,0.0005438104,-0.9749281,0.15956983,-0.7320713321849903,1,A girl carries a sign that reads The Rescue while a group of people follow her .,a dog running in the grass near a house
+0.044209481434175676,0.16666666666666666,0.17919943,0.00019163961,-0.9965508,0.1787417,-0.48922500884283,1,A man in blue and black surfs on a huge white wave .,a man jumping on a bed in a hotel room
+0.0,0.0,0.017519802,0.0036344617,-0.58678776,0.16670942,-0.720263845770081,1,A man gazes over the rail in the peaceful early morning .,a person and a dog on a beach
+0.0,0.0,0.0017216429,0.00061440107,-0.9981205,0.14393276,-0.8077966566369137,1,A little girl dances in a room with balloons on the floor .,a man with a skateboard standing on a sidewalk
+0.0,0.0,0.21044275,0.00028165322,-0.9979997,0.18963656,-0.48609032437058297,1,An older lady wearing a Tinkerbell jacket .,a little girl is playing on a swing set
+0.21199158731273945,0.4,0.60121506,0.007351976,0.0052407277,0.325715,0.5565422488604561,0,A dog in a grass field runs with a ball in its mouth .,a dog running across a lush green field
+0.09347835455730524,0.16666666666666666,0.027076768,0.175844,0.0630889,0.34410667,0.22511504949325134,0,"A man with a white beard , a partially bald man and a woman with short hair posing for a picture",a man wearing a red shirt
+0.0,0.0,-0.051336426,0.00032209273,-0.9974899,0.18642896,-0.7271041791126331,1,A medium brown dog is jumping over a short brick wall surrounding some dirt .,two people kaying in the water near trees
+0.0602820319372717,0.16666666666666666,0.17255671,0.00021439667,-0.99522007,0.21271779,-0.37177315936926575,1,A man in bright shorts hits a volleyball in the sand .,a man sitting on a wall in a park
+0.14633602881668917,0.2857142857142857,0.27882993,0.0011261825,-0.95843595,0.33702677,0.21015085999418281,0,A group of people mill around while a man in a fish costume descends a staircase .,a group of people standing in a large room
+0.7558878180531015,0.5,0.70521414,0.0016792725,-0.09379666,0.30627042,1.2876078817883583,0,A black and white dog is playing with a large brown cow .,a brown and white cow
+0.0,0.0,-0.24192604,0.0006581753,-0.9975248,0.1604038,-0.973470538406094,1,men are standing beside a stonesign,a dog running in the snow
+0.0,0.0,0.19918738,0.0007159625,-0.9853407,0.15213627,-0.6083479966208538,1,"A dog in midair catching a ring , while another dog watches .",a little girl is jumping in the air
+0.049134602521656516,0.14285714285714285,0.5325844,0.003707917,-0.0006186846,0.32352233,0.2716339197583204,0,A big black dog with fluffy fur runs in the surf of a rocky shore .,a dog running through a body of water
+0.0,0.0,-0.04871116,0.000641041,-0.9235538,0.16026263,-0.803121879248341,1,A female wearing pink gloves and a brown jacket is smiling in the snow .,a man and a woman are sitting on a bench
+0.11783626847390648,0.16666666666666666,0.38176116,0.00033790103,-0.9967527,0.33257908,0.249407321530145,0,A little boy walks with a woman wearing red in a wheelchair .,a woman sitting on a bench with a small child
+0.10741565905934812,0.0,0.53427774,0.02717339,0.0032409932,0.30725485,0.3381225450894483,0,Two girls playing at a playground .,two children playing on a metal bar in a park
+0.3550568231666617,0.3333333333333333,0.55915976,0.040698387,0.035097677,0.34340185,0.8130040670476715,0,A dirt bike rider catches some air going off a large hill,a man riding a bike down a hill
+0.209244557755179,0.25,0.5850357,0.057762757,-0.53980607,0.35538882,0.7102947306639089,0,A black dog leaping off the sand .,a black dog running on a beach near the ocean
+0.6480008663396011,0.5,0.8510695,0.45060697,0.44960725,0.3259033,2.067469609473482,0,A boy in football gear running with the football,a young boy running with a football on a field
+0.0844083029124057,0.2,0.2722624,0.0002349554,-0.9968278,0.30987468,0.040566200980323236,0,A boy with blue eyes hanging off a play set .,a young boy is climbing on a train
+0.0,0.0,0.011608975,0.0004231311,-0.9980545,0.20306192,-0.6211682702586254,1,A baseball pitcher with Shelton on his shirt throws the ball .,a young boy is climbing on a train
+0.0,0.0,0.09402234,0.0004980778,-0.9983278,0.21341908,-0.5169788371011814,1,A girl is blowing a huge bubble .,a man flying through the air while riding a bike
+0.0,0.0,0.14895591,0.0007609613,-0.8898552,0.26772723,-0.30431828603001443,0,A boy takes a football from another boy .,a group of children playing in the grass
+0.0,0.0,0.07849038,0.00040755275,-0.9968778,0.14155036,-0.7474502767607769,1,A closeup of a teenage girl wearing red beads .,a group of young boys playing on a street corner
+0.0,0.0,-0.0051285867,0.0009820961,-0.9974368,0.15055066,-0.7933081085965237,1,a large woman dances .,a man flying through the air while riding a snowboard
+0.0,0.0,0.08870634,0.0003051114,-0.99858904,0.1595381,-0.6843759934589466,1,A man in a checked shirt is sitting at a table looking back at a group of people behind him .,a young boy in a baseball uniform standing on a baseball field
+0.0,0.2,0.4691519,0.0017537767,-0.0071348925,0.30835134,0.10278446272162589,0,A black and brown dog and a grey poodle sticking its butt in the air on the sand .,two dogs playing with each other dogs
+0.051138824578525685,0.1111111111111111,0.41601002,0.0015090031,-0.013551318,0.39311796,0.3773449335614954,0,"A blonde girl is wearing a silver helmet , elbow and knee pads , and Rollerblades .",a little girl sitting on the ground with her skates
+0.03781295551016016,0.2857142857142857,0.3964267,0.0042185844,-0.067205735,0.25108707,-0.08091427383660701,0,a dirty looking man standing in front of an overfilled red grocery chart,a man with a shopping cart in front of a building
+0.0,0.0,0.034762625,0.00031949178,-0.99682206,0.15282959,-0.7522565866992077,1,A man gazes over the rail in the peaceful early morning .,a dog playing with a ball in the grass
+0.0,0.0,0.07222493,0.0002067676,-0.9952224,0.17972234,-0.6382759283468327,1,A black man in white shorts and a white man in black shorts boxing .,a group of people sitting in chairs in a room
+0.04504069099562924,0.16666666666666666,0.5266542,0.0026963952,-0.08474087,0.37717628,0.42111984287083626,0,A man lying down with a maroon cloth over his eyes and someone standing over him wearing flip flops .,a man laying on the ground
+0.0,0.0,0.22887185,0.0008101124,-0.99446994,0.17509688,-0.5127561013385853,1,A man climbs out of the ocean onto a rock,a person jumping a bike in the air
+0.4615406560543749,0.3333333333333333,0.62785995,0.013849517,0.0032463633,0.38692218,1.0995284069671696,0,The two children and the baby with the pink shirt are surrounded by toys .,a group of children playing with toys on the floor
+0.4670227337589853,0.6,0.68585193,0.0055692587,-0.00035267416,0.35681173,1.0536728969713258,0,A black and white dog is biting onto a stick in the water .,a dog swimming in the water with a stick in its mouth
+0.41154024332565864,0.16666666666666666,0.66162133,0.0024640032,-0.0035151846,0.3836408,1.0359269563628146,0,a brown dog swimming through a lake with a stick in his mouth .,a dog swimming in the water
+0.0,0.0,-0.10026048,0.00052541145,-0.9983286,0.14230627,-0.9029958765194019,1,A dog is running away in the grass,a group of young men playing a game of basketball
+0.0,0.0,-0.10885577,0.000475782,-0.9983672,0.1352765,-0.9318609233185848,1,People stand in corridor looking from balcony as another person walks dog,a man riding a bike down a dirt road
+0.0,0.0,0.09280723,0.00018910613,-0.9961478,0.103164524,-0.8508352483794293,1,Two girls in blue and teal dresses and large hats are standing next to a large tree trunk .,two people on dirt bikes riding down a hill
+0.09087812832559723,0.16666666666666666,0.52912664,0.0019262006,-0.11856713,0.3355521,0.35618680084282206,0,A blonde woman in blue shorts walks on the beach carrying her shoes .,a woman walking along the shore of a lake
+0.0,0.0,0.08097319,0.0022800518,-0.99483013,0.16886224,-0.6598914037630161,1,A dog and two people .,a group of young men standing in a store
+0.0,0.0,-0.02848759,0.0002440834,-0.996114,0.17001082,-0.7565130065366825,1,The three children are holding umbrellas and watching the ceremony in the rain .,a little girl is running in the sand
+0.0,0.0,0.07316874,0.00039485766,-0.9980893,0.17923084,-0.6386161591097912,1,A person jogging on a sidewalk .,a man throwing a bird at a dog by the water
+0.0,0.0,-0.10142182,0.0004316158,-0.9984453,0.1425831,-0.9033410991713604,1,A man in bright shorts hits a volleyball in the sand .,a woman walking a small dog on a leash
+0.0,0.0,0.106558986,0.0009593654,-0.9974924,0.14260346,-0.7185641001150211,1,A child is jumping on an inflatable bouncer .,a man in a blue uniform shooting a basketball ball
+0.585927569959761,0.16666666666666666,0.7978345,0.17667097,0.16682759,0.30310208,1.424344275167769,0,A man at a skate park doing a stunt .,a skateboarder doing a trick at a skate park
+0.3121821533552192,0.14285714285714285,0.5282942,0.004580488,0.0007771915,0.35934502,0.7191454480842866,0,A bus filled with passengers in Chicago at night .,a group of people riding on the back of a bus
+0.05891113301358502,0.14285714285714285,0.3668366,0.002798483,-0.9351755,0.23900057,-0.1183886548350679,1,A group of people mill around while a man in a fish costume descends a staircase .,a man on a ladder
+0.0,0.0,-0.00016675144,0.0053770407,-0.5294028,0.17827983,-0.6981872390195927,1,Little kids stand together and receive an award for something .,a crosswalk on a city street
+0.0,0.0,0.041135967,0.00029425125,-0.9984964,0.18221779,-0.6580952997490963,1,A boy takes a football from another boy .,a group of people walking across a snow covered mountain
+0.5063470147018287,0.4,0.76478565,0.7809556,0.7515818,0.31767178,2.32090469800402,0,A dog leaps through a snowy field .,a dog running through a snowy field with a tree in the background
+0.0,0.0,-0.06931548,0.000848873,-0.982725,0.10303192,-0.9934756900355419,1,A brown a dog and a black dog in the edge of the ocean with a wave under them boats are on the water in the background .,a man climbing up a rock face to face
+0.0,0.0,0.016507732,0.0002443314,-0.99645853,0.13302526,-0.8282015393659672,1,"A dark haired woman wearing a brown jacket and fatigue bottoms and a balding man wearing a green sweater and blue jeans with a fishing pole , stand at the foot of the surf .",a little girl sitting on a slide in a playground
+0.0976877372293913,0.0,0.3911099,0.058482893,-0.055799,0.27100065,0.14070795006932452,0,A person in uniform is standing in front of a toll bridge .,a man in a yellow jacket standing next to a truck
+0.0,0.0,0.027160376,0.0006814941,-0.99781144,0.22540057,-0.5396766993388733,1,the three boys are all holding onto a flotation device in the water .,a young girl in a bikini jumps into the sand at the beach
+0.0,0.0,0.16081364,0.0002157625,-0.99740154,0.17669907,-0.5690601165577969,1,A lady laughs as she and a man drink coffee .,a group of people standing around a water well
+0.31551716698649523,0.375,0.51888025,0.0061210357,-0.0019531194,0.25737017,0.4103448401251213,0,A dirt biker in red speeds on clay road while being videotaped by a man in black .,a man riding a bike down a dirt road
+0.06697400385705042,0.2,0.21462578,0.00042151468,-0.9984976,0.14913012,-0.5171844905477836,1,A man climbing a rock wall,a man sleeping on the sidewalk next to an atm
+0.0,0.0,0.08065951,0.0019679843,-0.42672458,0.16569138,-0.6702336962506374,1,A man with a blue shirt posing with a taller man in sunglasses,a boy swimming in a pool with goggles
+0.0,0.0,0.058052473,0.00035210987,-0.99853206,0.12812069,-0.8060813094660839,1,A man is standing on snow with trees and mountains all around him .,a dog running in the grass
+0.2005544616844557,0.14285714285714285,0.45123607,0.0027473362,-0.08308994,0.3301175,0.4148541499934386,0,a boy in a white t-shirt is playing on a swing that is attached to a tree .,a person jumping off of a tree in a park
+0.0,0.0,0.008678172,0.00037102948,-0.9985167,0.16648401,-0.7340803439900478,1,A black dog bites at a stream of water on the grass .,a group of people riding horses on a track
+0.011986079888673642,0.16666666666666666,0.5624207,0.014772465,-0.02984679,0.36722103,0.3994595600090243,0,A little boy and girl are jumping on a trampoline in front of a yellow building .,a young girl jumping on a tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram
+0.0,0.0,0.05666829,0.00033214875,-0.99846226,0.16555174,-0.694530076830109,1,A girl in a red shirt is rock climbing .,a group of people watching a skateboarder at a skate park
+0.0,0.0,-0.03144946,0.00059936865,-0.99815404,0.15425268,-0.8060429240748486,1,Two dogs kick up dirt while running down a hill .,a group of people jumping into a swimming pool
+0.0,0.0,0.053516675,0.00047125685,-0.9983376,0.105705544,-0.8774501006290516,1,a brown dog and a white dog are running across a stony hillock .,a group of children sitting on a stage
+0.0,0.0,0.26224607,0.020817772,-0.9172756,0.2891081,-0.1070299665615162,0,A crowd watches as two formula one cars leave the starting line .,a group of people watching a fire show
+0.0,0.0,0.013569057,0.000419576,-0.9971242,0.14250833,-0.8019341002389988,1,A boy pushing another boy up a pole .,a man and a dog in a small boat
+0.0,0.0,0.2005383,0.0011311944,-0.99694216,0.20752248,-0.43955713465662805,1,A professional horse race,a football game is being played on the field
+0.3129021149262454,0.4,0.59421784,0.002557913,-0.0025527051,0.3092757,0.6241640319062387,0,"A black and white dog , with a red cap on its head , yawning .",a dog with a baseball hat on its head
+0.06266384416694996,0.16666666666666666,0.63671124,0.003358731,-0.20169619,0.3519414,0.4663463499239864,0,A boy in an orange snorkel mask swims underwater .,a boy swimming in a pool with goggles
+0.0922580921072332,0.25,0.28213963,0.0019335825,-0.9433793,0.32988483,0.12257621433045651,0,A group of people in hazmat suits are standing with a dummy on a stretcher .,a group of people in protective gear working on a street
+0.0,0.0,0.059373386,0.00039080912,-0.998426,0.1703321,-0.6776363472625813,1,A dirt bike rider catches some air going off a large hill,a dog running in the water at the beach
+0.0,0.0,-0.059083194,0.000585009,-0.9981936,0.15001678,-0.8432604442522129,1,A group of people sitting around a desk .,a man playing with a dog in a park
+0.0,0.0,-0.1046236,0.00027067904,-0.99845207,0.18097214,-0.7907393495723805,1,a man carves an ice block with a chainsaw .,a group of people walking down the street
+0.0,0.0,0.07307304,0.00079370145,-0.99780756,0.11469233,-0.8325526560828289,1,A dog in a snowy area .,a person jumping on a bike over rocks
+0.26783853544904096,0.2857142857142857,0.6105494,0.019951362,-0.016886715,0.29830205,0.575314470529921,0,A baseball pitcher with Shelton on his shirt throws the ball .,a baseball player throwing a ball on a field
+0.0,0.0,0.0546451,0.00023806383,-0.99808973,0.21813592,-0.5379969622180065,1,An Ambulance is passing a man wearing a bandanna and girl .,a young boy is playing on a playground
+0.044414627809286775,0.2,0.4223625,0.017063165,-0.39536768,0.3386343,0.2353822598703548,0,A man is bungee jumping from a platform whilst being watched by someone above him .,a man flying through the air with a parachute
+0.06594913741092256,0.14285714285714285,0.19857298,0.0012550384,-0.93086,0.29939193,-0.07849834701596381,0,a young group of girls covering her hair posing together outside of a building .,a group of people walking down a dirt road
+0.11885095158608991,0.2857142857142857,0.13382629,0.00085431826,-0.9930852,0.24000706,-0.2465941947324035,1,"A man is standing at edge of a pond , with two dogs and is throwing a branch is water .",a dog is sitting in a boat on the water
+0.19305328433682992,0.2,0.28874618,0.0002208058,-0.9963777,0.34160575,0.2919656245556801,0,Two girls arm wrestle as another observes,a group of young girls sitting around a table
+0.034022849057297466,0.14285714285714285,0.5041691,0.004408637,-0.4060743,0.2890665,0.12417347348345725,0,A man in sunglasses gets ready to pull a chair out to sit down for his meal .,a man standing in front of a table filled with food
+0.0,0.0,0.009346096,0.00032918283,-0.9981707,0.15958291,-0.7543562348172268,1,Boys wearing hats play in a soccer game .,a skateboarder is doing a trick on a ramp
+0.0,0.0,0.01037864,0.00027107517,-0.99800074,0.17102173,-0.7190646226689419,1,"two girls hold up a card reading "" know what this is "" ?",a group of dogs standing in front of a building
+0.0,0.0,-0.19923088,0.00044630046,-0.99845314,0.118287005,-1.063002496509274,1,A man at a skate park doing a stunt .,a woman and a young girl sitting at a table
+0.6334951852438131,0.75,0.71489555,0.11560602,-0.021485724,0.37520975,1.5306017687552522,0,A baby in a life jacket on a raft .,a baby in a life jacket sitting on an inflatable
+0.0,0.0,-0.023564938,0.00022128069,-0.9982016,0.16822395,-0.757583699671944,1,A woman in a blue shirt runs through a field of dry grass .,two dogs playing on a rocky hill
+0.03623327105590954,0.16666666666666666,0.40732005,0.00057482306,-0.9928563,0.30078465,0.07049634451147144,0,A man in yellow sits on a rock ledge overlooking a forest .,a man climbing on a cliff in the mountains
+0.0,0.0,-0.022609964,0.00028268792,-0.9974685,0.115707226,-0.9149110536262592,1,A lonely skier enjoys the slopes on a beautiful day .,a brown and white dog jumping over an obstacle
+0.10241750786087986,0.2,0.6310014,0.0031984956,-0.00015172851,0.33338633,0.4567910381731508,0,A person snowboarding in the late afternoon sun .,a person on a snowboard doing a trick
+0.24278754122718685,0.16666666666666666,0.56488305,0.0017333904,-0.023480603,0.32279322,0.5464878581997162,0,A man in a long sleeved white shirt is walking past something called the lounge bar .,a man walking past a building with boarded windows
+0.07084724238093075,0.16666666666666666,0.35169983,0.002124695,-0.05059167,0.2794083,0.004425251069501618,1,"A brown , black and white dog is on a obstacle course .",a dog with a toy in its mouth in the water
+0.0,0.0,0.4506883,0.2583677,-0.2036744,0.26700902,0.38028626188782844,1,A child doing gymnastics,a young girl jumping on a tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram
+0.09795130368221629,0.25,0.32875383,0.0033918528,-0.9043445,0.22499533,-0.14254832068652776,1,A boy holds a large icicle .,a boy sitting on top of a wooden post
+0.5698933963850128,0.5,0.4604561,0.00031738976,-0.9862259,0.3582148,0.9838038715906444,0,A black dog leaps over a log .,a dog is sitting on a log in the grass
+0.7098572564974688,0.6,0.8187788,0.07025139,0.06516787,0.31973234,1.4805466304270467,0,A group of guys are playing soccer on the beach .,a group of people playing soccer on the beach
+0.0,0.0,0.25441495,0.0011408245,-0.97453576,0.3084211,-0.08783232003303376,0,A tent is being set up on the ice .,a group of people sitting on top of a snow covered field
+0.7885955609806807,1.0,0.95367706,0.19885832,0.19709618,0.32522494,1.9283960237928937,0,Two girls are jumping high in the air .,two girls jumping in the air
+0.13429757365801928,0.25,0.52101046,0.012156514,-0.56209797,0.25849706,0.18990776275040713,0,An attractive woman holds a halo above her head .,a woman wearing a hat
+0.5104459985666798,0.5,0.6553673,0.0033224316,0.00145229,0.27204975,0.8240539612929865,0,a woman in black walks down the sidewalk .,a woman walking down a sidewalk next to a tree
+0.8882625901560165,1.0,0.80053115,0.9185634,0.9147716,0.29945153,3.018398415604676,0,A black dog running through the snow .,a black and white dog running in the snow
+0.0,0.0,0.107789904,0.000769673,-0.9978563,0.13003743,-0.7556559960529408,1,a cat sits alone in dry grass .,a young boy playing in a pool with a toy
+0.0,0.0,0.3066982,0.0020799632,-0.905064,0.2107647,-0.33439349757360426,1,A climber wearing a white helmet is perched on the side of a rock face .,a person riding a bike on a beach
+0.3732623980907188,0.2857142857142857,0.67435026,0.38989496,0.36544704,0.30584812,1.3946979143106655,0,A basketball player in a blue jersey holds the ball high .,a man in a blue uniform shooting a basketball ball
+0.0,0.0,-0.087678604,0.00058365526,-0.99175185,0.17724091,-0.7864946196958622,1,A long haired mail is swinging his wet hair around in the ocean .,two dogs playing with each other dogs
+0.0,0.0,-0.03286345,0.00031602554,-0.9983851,0.09244897,-0.9940151493236622,1,a young group of girls covering her hair posing together outside of a building .,a dog is sitting on a log in the grass
+0.17067813290760223,0.4,0.754689,0.005543617,-0.0011851275,0.34620506,0.6973152444406802,0,a brown and a black dog play in a field,two dogs playing in a field of tall grass
+0.20622023203198536,0.125,0.5480164,0.0028858723,-0.011356292,0.30805647,0.44151238000441184,0,A Louis Vuitton store window at night .,a storefront with a window display in front of it
+0.30225573805347694,0.5,0.69493043,0.06137385,0.05362074,0.32542592,0.8439295579292878,0,A little boy is splashing around in the water in a kiddie pool .,a young boy playing in a pool with a toy
+0.11889602794398126,0.16666666666666666,-0.022885468,0.0009539068,-0.79623955,0.17242053,-0.5885946745572992,1,Men in blue uniforms holding little girl with bandaged face and stuffed animal,a girl in the street
+0.07705903819884295,0.14285714285714285,0.2812174,0.0011637704,-0.058708675,0.2069355,-0.26978787002586024,1,A boy wears a foam hat to show support for his team at a game .,a young boy playing in the sand at the beach
+0.0,0.0,0.06952271,0.0006391712,-0.9899358,0.17809615,-0.6448605577632984,1,A crowd of children and some are wearing green costumes .,a baby in a life jacket sitting on an inflatable
+0.0662284121934522,0.16666666666666666,0.27967516,0.003543006,-0.27674147,0.19916953,-0.304754502179006,1,A man is shirtless and is covered in red marks .,a man sitting on a bench in front of a building
+0.0,0.0,0.114281856,0.0013989817,-0.9861595,0.18695496,-0.5773563902065357,1,A child plays at a playground .,a small white and brown dog sitting in the grass
+0.12958482581017247,0.2,0.33550107,0.051596973,-0.73076487,0.22502539,-0.01677423931953262,0,A group of adults are walking .,a group of people standing in front of a train
+0.11028490170513316,0.5,0.48105952,0.005942207,-0.020043077,0.2959144,0.22601182070585366,0,A girl carries a sign that reads The Rescue while a group of people follow her .,a group of people walking down a street holding signs
+0.04200534196824805,0.14285714285714285,0.2646697,0.00026607933,-0.9975771,0.22033066,-0.2910746247073239,1,People stand in corridor looking from balcony as another person walks dog,a small dog sitting on top of a cement bench
+0.055157348532205275,0.2,0.37372267,0.0023594461,-0.6533805,0.33416894,0.16891604960714982,0,A black and white dog is running between yellow poles .,a dog standing in the middle of an obstacle course
+0.027071625005938404,0.14285714285714285,0.3164943,0.0002716915,-0.9985661,0.16852292,-0.42079900746147647,1,A man lying down with a maroon cloth over his eyes and someone standing over him wearing flip flops .,a man climbing on a rock face to face
+0.830942867716696,1.0,0.7771758,0.0068229293,0.0057166545,0.34216833,1.5653558006507748,0,A brown dog is running on grass .,a dog running in the grass
+0.0,0.0,-0.062682316,0.00052070746,-0.9982522,0.1535891,-0.8357809256002506,1,The two young women are laughing outdoors by a tree trunk .,a boy on a boat in the ocean
+0.0,0.0,0.16142946,0.0024705632,-0.9859837,0.16209438,-0.6088539133951267,1,A baby is held by an adult and is sitting on a table at a coffee shop .,a young boy playing tennis on a tennis court
+0.0,0.0,0.050942387,0.00040392272,-0.9984544,0.32923925,-0.20616326436253396,0,A group of people riding a roller coaster upside down .,a man on a ladder
+0.35057184103629735,0.25,0.46733016,0.0003717971,-0.998354,0.24016131,0.349102814350271,1,a little girl running in a field,a little girl standing on a playground slide
+0.06784607494035173,0.16666666666666666,0.4440068,0.0031386619,-0.9288534,0.2589715,0.02218574813411471,0,People stand in corridor looking from balcony as another person walks dog,the interior of a building with people walking through it
+0.0,0.0,0.31296685,0.0038393515,-0.98111254,0.2845907,-0.1034910022452673,1,A boy carries a boogieboard on the beach .,a man riding a wave on top of a surfboard
+0.5432709036276704,0.3333333333333333,0.76140684,0.0033317392,-0.002525658,0.3511939,1.1989952575653375,0,"a brown and white dog jumping over a red , yellow and white pole",a brown and white dog jumping over an obstacle
+0.4553010655903349,0.2,0.5852547,0.010162299,-0.93614805,0.302506,0.7933343696534116,0,A man climbing a rock wall,a man climbing on the side of a mountain
+0.18185154802216413,0.0,0.144353,0.00030102485,-0.99793863,0.16336341,-0.38728366797731995,1,Three boys all wearing green shirts are climbing on a slide .,a man climbing on a rock with a rope
+0.04492444501440934,0.14285714285714285,0.13251126,0.0002785115,-0.9982149,0.20812592,-0.440869994536362,1,A child leaping from bed to bed behind the back of a man .,a man hanging from a tree over a body of water
+0.2349085825824963,0.5,0.5771183,0.007824627,0.002639968,0.30219942,0.4949300499564493,0,A big dog catches a ball on his nose,a dog is playing with a ball in the yard
+0.10051329719363193,0.2,0.26901764,0.0027047913,-0.99373406,0.20566174,-0.2514116154643457,1,A group of adults are walking .,a group of young men playing a game of hockey
+0.0,0.0,0.10658679,0.0004175283,-0.99846363,0.12950698,-0.7588923941537937,1,A brown dog jumps high in the grass .,a child standing in front of a christmas tree
+0.0,0.0,-0.01705469,0.000289145,-0.9983682,0.21764198,-0.6027849237606129,1,A black and white dog in a dog-shirt carrying a long piece of wood .,a group of people walking down a street
+0.13216569059819003,0.1,0.29333988,0.00071182236,-0.99209714,0.28514937,0.04753780977711007,0,"A lone performer or lecturer takes the stage in an urban setting , for a crowd of about 30 spectators .",a crowd of people sitting in chairs in front of a building
+0.0,0.0,0.023921918,0.00034492934,-0.9964387,0.19537,-0.6335925678894123,1,A barefoot young boy glances at the camera while swinging in a park .,a man in a red and white outfit holding a blue flag
+0.0,0.0,0.071224436,0.0006581204,-0.9630896,0.17301495,-0.6586387301966747,1,A man in sunglasses gets ready to pull a chair out to sit down for his meal .,a group of people sitting on top of a rock
+0.0,0.0,0.0810996,0.00041914772,-0.998406,0.17465818,-0.6453464846298298,1,A baby clutching a stuffed animal is smiling .,a baseball player throwing a ball on a field
+0.0,0.0,0.18390946,0.00047810702,-0.99746704,0.20540145,-0.4617141629740795,1,A baby is laughing .,a dog running with a ball in its mouth
+0.48662652444890314,0.42857142857142855,0.7378065,0.007218173,3.321655e-05,0.40221375,1.2646011434067437,0,A group of people are flying colorful kites near a beautiful snow-capped mountain range .,a group of people flying kites in a field
+0.5097331891757501,0.5,0.660987,0.05513595,0.039016638,0.31666318,1.0470323570165343,0,A man extends his arms in front of a large rock formation .,a person standing in front of a rock formation
+0.14710360573149067,0.2,0.4475643,0.0048977006,-0.008273739,0.31839925,0.31032098579568956,0,A black and a black dog are running side by side .,two dogs running in the snow with a tennis ball
+0.2926748616375679,0.14285714285714285,0.6487425,0.18218869,0.16963932,0.32327694,0.9811623846294284,0,A boy on a snowboard leaps through the air .,a person on a snowboard jumping over a pile of snow
+0.0,0.0,0.24378708,0.00026224798,-0.9983649,0.1561501,-0.5575649994597038,1,a girl wearing pink bounces on a bed,a person on a snowboard in the snow
+0.28940494292918284,0.6,0.63619334,0.0045933994,0.0031276832,0.32789114,0.6901487572214233,0,A brown and white dog has caught a yellow ball in a grassy field surrounded by trees .,a dog running across a field with a ball in its mouth
+0.20317517495559348,0.25,0.5325275,0.0024484599,-0.98447436,0.21951848,0.15631843363824238,1,Two boys playing in the surf on the beach .,two men fishing on the beach
+0.0,0.0,0.08618009,0.00021109742,-0.997188,0.17223722,-0.648490696696957,1,A jockey in yellow and a jockey in blue are racing their horses down a grassy raceway .,two dogs pulling a sler through the woods
+0.0,0.0,0.008025538,0.00029805247,-0.9985756,0.16462094,-0.7403911049649319,1,A group of people sitting on benches at a city park .,a man doing a trick on a green bike

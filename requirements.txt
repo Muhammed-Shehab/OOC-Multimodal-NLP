@@ -1,0 +1,10 @@
+streamlit==1.66.1
+torch==2.15.0
+transformers==5.22.1
+sentence-transformers==6.2.0
+spacy==3.8.18
+networkx
+scikit-learn
+pandas
+pillow
+numpy
